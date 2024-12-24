@@ -46,7 +46,7 @@ const Team = () => {
                               />
                             </div>
                             <div className="vc_row wpb_row vc_inner vc_row-fluid">
-                              <div className="wpb_column vc_column_container vc_col-sm-4">
+                              <div className="wpb_column vc_column_container vc_col-sm-6">
                                 <div className="vc_column-inner">
                                   <div className="wpb_wrapper">
                                     <div className="st-team-wraper st-team-layout2 450">
@@ -62,19 +62,117 @@ const Team = () => {
                                         </div>
                                         <div className="st-team-meta">
                                           <h3 className="st-team-name">
-                                            <a href="index.html">
-                                              Jeniffer finloc
-                                            </a>
+                                            <a href="#">Mantra</a>
                                           </h3>
                                           <small className="st-team-position primary-color">
-                                            Designation
+                                            Founder and CEO
                                           </small>
                                         </div>
                                         <div className="st-team-desctiption">
-                                          Lorem Ipsum is simply dummy text of
-                                          the printing typesetting industry.
-                                          Lorem Ipsum has been the industry's
-                                          standard dummy .
+                                          <p>
+                                            Mr. Jha is a highly accomplished
+                                            professional in the Compliance and
+                                            Legal domains with an extensive
+                                            track record of excellence in the
+                                            Banking, Financial Services, and
+                                            Insurance (BFSI) sector. He is a
+                                            Fellow Company Secretary, a Fellow
+                                            of the Insurance Institute of India,
+                                            and a Law graduate, combining robust
+                                            academic credentials with over 13
+                                            years of rich and diverse
+                                            experience. His career spans GI, HI,
+                                            Insurance Intermediaries in
+                                            Compliance, Secretarial & Corporate
+                                            Legal, positioning him as a thought
+                                            leader in his field.
+                                          </p>
+
+                                          <p>
+                                            Mr. Jha has demonstrated expertise
+                                            in areas such as:
+                                          </p>
+
+                                          <p>
+                                            <strong>
+                                              Regulatory Compliance and
+                                              Interface:
+                                            </strong>{" "}
+                                            Proficient in liaising with
+                                            regulatory bodies, ensuring
+                                            adherence to evolving legal
+                                            frameworks, and facilitating
+                                            seamless regulatory audits and
+                                            inspections.
+                                          </p>
+
+                                          <p>
+                                            <strong>
+                                              Compliance Strategy and
+                                              Implementation:
+                                            </strong>{" "}
+                                            Designed and executed compliance
+                                            programs, including Anti-Money
+                                            Laundering (AML) frameworks,
+                                            Corporate Governance policies, and
+                                            Market Conduct Monitoring
+                                            mechanisms, ensuring alignment with
+                                            national and international
+                                            standards.
+                                          </p>
+
+                                          <p>
+                                            <strong>
+                                              Risk Management and Legal
+                                              Advisory:
+                                            </strong>{" "}
+                                            Adept at identifying, analyzing, and
+                                            mitigating compliance and legal
+                                            risks. He has successfully managed
+                                            litigation portfolios, contractual
+                                            negotiations, and dispute
+                                            resolutions.
+                                          </p>
+
+                                          <p>
+                                            <strong>
+                                              Policy Formulation and Quality
+                                              Assurance:
+                                            </strong>
+                                          </p>
+
+                                          <p>Mr. Jha’s achievements include:</p>
+
+                                          <p>
+                                            1. Leading high-stakes regulatory
+                                            engagements, fostering trust, and
+                                            strengthening relationships with
+                                            regulatory authorities.
+                                          </p>
+
+                                          <p>
+                                            2. Driving compliance transformation
+                                            initiatives, resulting in improved
+                                            risk mitigation and enhanced
+                                            organizational resilience.
+                                          </p>
+
+                                          <p>
+                                            3. Managing end-to-end legal
+                                            operations, including contract
+                                            management, intellectual property,
+                                            corporate litigation, and advisory
+                                            services.
+                                          </p>
+
+                                          <p>
+                                            Beyond his technical acumen, his
+                                            forward-thinking approach enables
+                                            him to anticipate industry trends,
+                                            proactively address challenges, and
+                                            align compliance frameworks with
+                                            business objectives.
+                                          </p>
                                         </div>
                                         <div className="st-team-social">
                                           <a
@@ -115,7 +213,7 @@ const Team = () => {
                                   </div>
                                 </div>
                               </div>
-                              <div className="wpb_column vc_column_container vc_col-sm-4">
+                              <div className="wpb_column vc_column_container vc_col-sm-6">
                                 <div className="vc_column-inner">
                                   <div className="wpb_wrapper">
                                     <div className="st-team-wraper st-team-layout2 453">
@@ -182,276 +280,6 @@ const Team = () => {
                                   </div>
                                 </div>
                               </div>
-                              <div className="wpb_column vc_column_container vc_col-sm-4">
-                                <div className="vc_column-inner">
-                                  <div className="wpb_wrapper">
-                                    <div className="st-team-wraper st-team-layout2 446">
-                                      <div className="st-team-inner clearfix">
-                                        <div className="st-team-name-image clearfix">
-                                          <div className="st-team-image">
-                                            <img
-                                              decoding="async"
-                                              alt=""
-                                              src="../wp-content/uploads/2015/11/team1-500x500.jpg"
-                                            />
-                                          </div>
-                                        </div>
-                                        <div className="st-team-meta">
-                                          <h3 className="st-team-name">
-                                            Mariya Martin
-                                          </h3>
-                                          <small className="st-team-position primary-color">
-                                            Designation
-                                          </small>
-                                        </div>
-                                        <div className="st-team-desctiption">
-                                          Lorem Ipsum is simply dummy text of
-                                          the printing typesetting industry.
-                                          Lorem Ipsum has been the industry's
-                                          standard dummy .
-                                        </div>
-                                        <div className="st-team-social">
-                                          <a
-                                            className="team-social"
-                                            title="Facebook"
-                                            href="#"
-                                            target="_blank"
-                                          >
-                                            <i className="fa fa-facebook" />
-                                          </a>
-                                          <a
-                                            className="team-social"
-                                            title="Twitter"
-                                            href="#"
-                                            target="_blank"
-                                          >
-                                            <i className="fa fa-twitter" />
-                                          </a>
-                                          <a
-                                            className="team-social"
-                                            title="Pinterest"
-                                            href="#"
-                                            target="_blank"
-                                          >
-                                            <i className="fa fa-pinterest-p" />
-                                          </a>
-                                          <a
-                                            className="team-social"
-                                            title="Linkedin"
-                                            href="#"
-                                            target="_blank"
-                                          >
-                                            <i className="fa fa-linkedin" />
-                                          </a>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                            <div className="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1448533288522">
-                              <div className="wpb_column vc_column_container vc_col-sm-4">
-                                <div className="vc_column-inner">
-                                  <div className="wpb_wrapper">
-                                    <div className="st-team-wraper st-team-layout2 447">
-                                      <div className="st-team-inner clearfix">
-                                        <div className="st-team-name-image clearfix">
-                                          <div className="st-team-image">
-                                            <img
-                                              decoding="async"
-                                              alt=""
-                                              src="../wp-content/uploads/2015/11/team2-500x500.jpg"
-                                            />
-                                          </div>
-                                        </div>
-                                        <div className="st-team-meta">
-                                          <h3 className="st-team-name">
-                                            Sujil Gavaskar
-                                          </h3>
-                                          <small className="st-team-position primary-color">
-                                            Designation
-                                          </small>
-                                        </div>
-                                        <div className="st-team-desctiption">
-                                          Lorem Ipsum is simply dummy text of
-                                          the printing typesetting industry.
-                                          Lorem Ipsum has been the industry's
-                                          standard dummy .
-                                        </div>
-                                        <div className="st-team-social">
-                                          <a
-                                            className="team-social"
-                                            title="Facebook"
-                                            href="#"
-                                            target="_blank"
-                                          >
-                                            <i className="fa fa-facebook" />
-                                          </a>
-                                          <a
-                                            className="team-social"
-                                            title="Twitter"
-                                            href="#"
-                                            target="_blank"
-                                          >
-                                            <i className="fa fa-twitter" />
-                                          </a>
-                                          <a
-                                            className="team-social"
-                                            title="Pinterest"
-                                            href="#"
-                                            target="_blank"
-                                          >
-                                            <i className="fa fa-pinterest-p" />
-                                          </a>
-                                          <a
-                                            className="team-social"
-                                            title="Google"
-                                            href="#"
-                                            target="_blank"
-                                          >
-                                            <i className="fa fa-google" />
-                                          </a>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                              <div className="wpb_column vc_column_container vc_col-sm-4">
-                                <div className="vc_column-inner">
-                                  <div className="wpb_wrapper">
-                                    <div className="st-team-wraper st-team-layout2 448">
-                                      <div className="st-team-inner clearfix">
-                                        <div className="st-team-name-image clearfix">
-                                          <div className="st-team-image">
-                                            <img
-                                              decoding="async"
-                                              alt=""
-                                              src="../wp-content/uploads/2015/11/team3-500x500.jpg"
-                                            />
-                                          </div>
-                                        </div>
-                                        <div className="st-team-meta">
-                                          <h3 className="st-team-name">
-                                            Leejo George
-                                          </h3>
-                                          <small className="st-team-position primary-color">
-                                            Designation
-                                          </small>
-                                        </div>
-                                        <div className="st-team-desctiption">
-                                          Lorem Ipsum is simply dummy text of
-                                          the printing typesetting industry.
-                                          Lorem Ipsum has been the industry's
-                                          standard dummy .
-                                        </div>
-                                        <div className="st-team-social">
-                                          <a
-                                            className="team-social"
-                                            title="Facebook"
-                                            href="#"
-                                            target="_blank"
-                                          >
-                                            <i className="fa fa-facebook" />
-                                          </a>
-                                          <a
-                                            className="team-social"
-                                            title="Twitter"
-                                            href="#"
-                                            target="_blank"
-                                          >
-                                            <i className="fa fa-twitter" />
-                                          </a>
-                                          <a
-                                            className="team-social"
-                                            title="Pinterest"
-                                            href="#"
-                                            target="_blank"
-                                          >
-                                            <i className="fa fa-pinterest-p" />
-                                          </a>
-                                          <a
-                                            className="team-social"
-                                            title="Linkedin"
-                                            href="#"
-                                            target="_blank"
-                                          >
-                                            <i className="fa fa-linkedin" />
-                                          </a>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                              <div className="wpb_column vc_column_container vc_col-sm-4">
-                                <div className="vc_column-inner">
-                                  <div className="wpb_wrapper">
-                                    <div className="st-team-wraper st-team-layout2 449">
-                                      <div className="st-team-inner clearfix">
-                                        <div className="st-team-name-image clearfix">
-                                          <div className="st-team-image">
-                                            <img
-                                              decoding="async"
-                                              alt=""
-                                              src="../wp-content/uploads/2015/11/team4-500x500.jpg"
-                                            />
-                                          </div>
-                                        </div>
-                                        <div className="st-team-meta">
-                                          <h3 className="st-team-name">
-                                            DJ kennadi
-                                          </h3>
-                                          <small className="st-team-position primary-color">
-                                            Designation
-                                          </small>
-                                        </div>
-                                        <div className="st-team-desctiption">
-                                          Lorem Ipsum is simply dummy text of
-                                          the printing typesetting industry.
-                                          Lorem Ipsum has been the industry's
-                                          standard dummy .
-                                        </div>
-                                        <div className="st-team-social">
-                                          <a
-                                            className="team-social"
-                                            title="Facebook"
-                                            href="#"
-                                            target="_blank"
-                                          >
-                                            <i className="fa fa-facebook" />
-                                          </a>
-                                          <a
-                                            className="team-social"
-                                            title="Twitter"
-                                            href="#"
-                                            target="_blank"
-                                          >
-                                            <i className="fa fa-twitter" />
-                                          </a>
-                                          <a
-                                            className="team-social"
-                                            title="Pinterest"
-                                            href="#"
-                                            target="_blank"
-                                          >
-                                            <i className="fa fa-pinterest-p" />
-                                          </a>
-                                          <a
-                                            className="team-social"
-                                            title="Google"
-                                            href="#"
-                                            target="_blank"
-                                          >
-                                            <i className="fa fa-google" />
-                                          </a>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
                             </div>
                           </div>
                         </div>
@@ -464,7 +292,7 @@ const Team = () => {
                         <div className="vc_column-inner">
                           <div className="wpb_wrapper">
                             <a
-                              href="../contact-us/index.html"
+                              href="/Contact"
                               className="btn btn-regular tertiary-background right"
                             >
                               CONTACT US

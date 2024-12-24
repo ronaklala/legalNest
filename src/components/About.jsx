@@ -58,14 +58,17 @@ const About = () => {
                             <div className="wpb_text_column wpb_content_element vc_custom_1451638423947">
                               <div className="wpb_wrapper">
                                 <p>
-                                  Lorem Ipsum is simply dummy text of the
-                                  printing and typesetting industry. Lorem Ipsum
-                                  has been the industry’s standard dummy text
-                                  ever since the 1500s, when an unknown printer
-                                  took a galley of type and scrambled it to make
-                                  a type specimen book. It has survived not only
-                                  five centuries, but also the leap into
-                                  electronic typesetting,
+                                  Mehta & Mehta stands as one of the leading
+                                  providers of corporate secretarial and
+                                  legal services, boasting a legacy of more than
+                                  three decades in the Secretarial & Compliance
+                                  domain. Currently, we operate as a consortium
+                                  of over 10 partner firms, collectively
+                                  comprising a dynamic team of over 100
+                                  professionals. At the heart of our business
+                                  strategy lies the commitment to fostering
+                                  robust client relationships, and steering our
+                                  future development
                                 </p>
                               </div>
                             </div>
@@ -233,7 +236,6 @@ const About = () => {
                                   <i className="icon-screen-smartphone icons pull-left" />
                                   <div className="contact-title pull-left">
                                     Call now <br />
-                                    for free consultation
                                   </div>
                                   <div className="contact-detail pull-left">
                                     : 8895-444-6858
@@ -243,7 +245,6 @@ const About = () => {
                                   <i className="icon-envelope-open icons pull-left" />
                                   <div className="contact-title pull-left">
                                     Mail now <br />
-                                    free consultation
                                   </div>
                                   <div className="contact-detail pull-left">
                                     : ino@consult.com

@@ -56,7 +56,7 @@ const Header = () => {
         <div className="container">
           <div className="site-branding pull-left">
             {" "}
-            <a href="index.html" title="Consultancy" rel="home">
+            <a href="/" title="Consultancy" rel="home">
               {" "}
               <img
                 src="wp-content/themes/consultancy/images/logo.png"

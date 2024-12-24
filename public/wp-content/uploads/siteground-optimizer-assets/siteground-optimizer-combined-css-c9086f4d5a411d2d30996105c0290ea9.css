@@ -8437,6 +8437,9 @@ body .theme-default .nivoSlider {
   padding-right: 22px;
 }
 .contact-info .contact-title {
+  height: 100%;
+  display: flex;
+  align-items: center;
   filter: alpha(opacity=40);
   -ms-filter: "alpha(opacity=40)";
   -webkit-opacity: 0.4;
@@ -8453,7 +8456,7 @@ body .theme-default .nivoSlider {
 .contact-info .contact-detail {
   font-size: 30px;
   letter-spacing: -0.25px;
-  padding-top: 13px;
+  padding-top: 3px;
 }
 @media screen and (min-width: 768px) {
   .contact-info {

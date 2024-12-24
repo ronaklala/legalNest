@@ -1,4 +1,5 @@
 import React from "react";
+import { services } from "../mock/services";
 
 const Services = () => {
   return (
@@ -50,197 +51,49 @@ const Services = () => {
                       </div>
                     </div>
                     <div className="vc_row wpb_row vc_row-fluid vc_custom_1448582553412">
-                      <div className="wpb_column vc_column_container vc_col-sm-6">
-                        <div className="vc_column-inner">
-                          <div className="wpb_wrapper">
-                            <div className="st-feature-box-wraper st-feature-box-layout2 text-default">
-                              <div className="st-feature-box">
-                                <div className="st-feature-box-icon">
-                                  <div className="feature-box-image">
-                                    <img
-                                      decoding="async"
-                                      src="../wp-content/uploads/2015/11/icon6.png"
-                                      alt=""
-                                    />
+                      {services.map((s, i) => (
+                        <>
+                          <div
+                            className="wpb_column vc_column_container vc_col-sm-6"
+                            style={{ marginTop: "15px" }}
+                          >
+                            <div className="vc_column-inner">
+                              <div className="wpb_wrapper">
+                                <div className="st-feature-box-wraper st-feature-box-layout2 text-default">
+                                  <div className="st-feature-box">
+                                    <div className="st-feature-box-icon">
+                                      <div className="feature-box-image">
+                                        <img
+                                          decoding="async"
+                                          src={
+                                            "../wp-content/uploads/2015/11/" +
+                                            s.image
+                                          }
+                                          alt=""
+                                        />
+                                      </div>
+                                    </div>
+                                    <h3>{s.name}</h3>
+                                    <div className="feature-box-content">
+                                      {s.description}
+                                    </div>
+                                    <div className="st-feature-box-button st-readmore">
+                                      <a
+                                        href="#"
+                                        className="primary-hover-color"
+                                      >
+                                        Contact Us
+                                      </a>
+                                    </div>
                                   </div>
-                                </div>
-                                <h3>Markting Consulting</h3>
-                                <div className="feature-box-content">
-                                  Lorem Ipsum is simply dummy text of the
-                                  printing and typesetting industry. Lorem Ipsum
-                                  has been the industry's standard dummy text
-                                  ever since
-                                </div>
-                                <div className="st-feature-box-button st-readmore">
-                                  <a href="#" className="primary-hover-color">
-                                    Contact Us
-                                  </a>
                                 </div>
                               </div>
                             </div>
                           </div>
-                        </div>
-                      </div>
-                      <div className="wpb_column vc_column_container vc_col-sm-6">
-                        <div className="vc_column-inner">
-                          <div className="wpb_wrapper">
-                            <div className="st-feature-box-wraper st-feature-box-layout2 text-right">
-                              <div className="st-feature-box">
-                                <div className="st-feature-box-icon">
-                                  <div className="feature-box-image">
-                                    <img
-                                      decoding="async"
-                                      src="../wp-content/uploads/2015/11/icon1.png"
-                                      alt=""
-                                    />
-                                  </div>
-                                </div>
-                                <h3>Business Consulting</h3>
-                                <div className="feature-box-content">
-                                  Lorem Ipsum is simply dummy text of the
-                                  printing and typesetting industry. Lorem Ipsum
-                                  has been the industry's standard dummy text
-                                  ever since
-                                </div>
-                                <div className="st-feature-box-button st-readmore">
-                                  <a href="#" className="primary-hover-color">
-                                    Contact Us
-                                  </a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
+                        </>
+                      ))}
                     </div>
-                    <div className="vc_row wpb_row vc_row-fluid vc_custom_1448582565960">
-                      <div className="wpb_column vc_column_container vc_col-sm-6">
-                        <div className="vc_column-inner">
-                          <div className="wpb_wrapper">
-                            <div className="st-feature-box-wraper st-feature-box-layout2 text-default">
-                              <div className="st-feature-box">
-                                <div className="st-feature-box-icon">
-                                  <div className="feature-box-image">
-                                    <img
-                                      decoding="async"
-                                      src="../wp-content/uploads/2015/11/icon2.png"
-                                      alt=""
-                                    />
-                                  </div>
-                                </div>
-                                <h3>Lawyer Consulting</h3>
-                                <div className="feature-box-content">
-                                  Lorem Ipsum is simply dummy text of the
-                                  printing and typesetting industry. Lorem Ipsum
-                                  has been the industry's standard dummy text
-                                  ever since
-                                </div>
-                                <div className="st-feature-box-button st-readmore">
-                                  <a href="#" className="primary-hover-color">
-                                    Contact Us
-                                  </a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div className="wpb_column vc_column_container vc_col-sm-6">
-                        <div className="vc_column-inner">
-                          <div className="wpb_wrapper">
-                            <div className="st-feature-box-wraper st-feature-box-layout2 text-right">
-                              <div className="st-feature-box">
-                                <div className="st-feature-box-icon">
-                                  <div className="feature-box-image">
-                                    <img
-                                      decoding="async"
-                                      src="../wp-content/uploads/2015/11/icon7.png"
-                                      alt=""
-                                    />
-                                  </div>
-                                </div>
-                                <h3>App Consulting</h3>
-                                <div className="feature-box-content">
-                                  Lorem Ipsum is simply dummy text of the
-                                  printing and typesetting industry. Lorem Ipsum
-                                  has been the industry's standard dummy text
-                                  ever since
-                                </div>
-                                <div className="st-feature-box-button st-readmore">
-                                  <a href="#" className="primary-hover-color">
-                                    Contact Us
-                                  </a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="vc_row wpb_row vc_row-fluid vc_custom_1448583179976">
-                      <div className="wpb_column vc_column_container vc_col-sm-6">
-                        <div className="vc_column-inner">
-                          <div className="wpb_wrapper">
-                            <div className="st-feature-box-wraper st-feature-box-layout2 text-default">
-                              <div className="st-feature-box">
-                                <div className="st-feature-box-icon">
-                                  <div className="feature-box-image">
-                                    <img
-                                      decoding="async"
-                                      src="../wp-content/uploads/2015/11/icon6.png"
-                                      alt=""
-                                    />
-                                  </div>
-                                </div>
-                                <h3>Online Consulting</h3>
-                                <div className="feature-box-content">
-                                  Lorem Ipsum is simply dummy text of the
-                                  printing and typesetting industry. Lorem Ipsum
-                                  has been the industry's standard dummy text
-                                  ever since
-                                </div>
-                                <div className="st-feature-box-button st-readmore">
-                                  <a href="#" className="primary-hover-color">
-                                    Contact Us
-                                  </a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div className="wpb_column vc_column_container vc_col-sm-6">
-                        <div className="vc_column-inner">
-                          <div className="wpb_wrapper">
-                            <div className="st-feature-box-wraper st-feature-box-layout2 text-right">
-                              <div className="st-feature-box">
-                                <div className="st-feature-box-icon">
-                                  <div className="feature-box-image">
-                                    <img
-                                      decoding="async"
-                                      src="../wp-content/uploads/2015/11/icon4.png"
-                                      alt=""
-                                    />
-                                  </div>
-                                </div>
-                                <h3>IT Management</h3>
-                                <div className="feature-box-content">
-                                  Lorem Ipsum is simply dummy text of the
-                                  printing and typesetting industry. Lorem Ipsum
-                                  has been the industry's standard dummy text
-                                  ever since
-                                </div>
-                                <div className="st-feature-box-button st-readmore">
-                                  <a href="#" className="primary-hover-color">
-                                    Contact Us
-                                  </a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
+
                     <br />
                     <br />
 
