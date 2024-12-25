@@ -50,7 +50,7 @@ const Footer = () => {
                       id="menu-item-544"
                       className="menu-item menu-item-type-post_type menu-item-object-page menu-item-544"
                     >
-                      <a href="#">&nbsp;</a>
+                      <a href="/#">&nbsp;</a>
                     </li>
                     <li
                       id="menu-item-527"
@@ -62,7 +62,7 @@ const Footer = () => {
                       id="menu-item-544"
                       className="menu-item menu-item-type-post_type menu-item-object-page menu-item-544"
                     >
-                      <a href="#">&nbsp;</a>
+                      <a href="/#">&nbsp;</a>
                     </li>
                     <li
                       id="menu-item-527"
@@ -74,7 +74,7 @@ const Footer = () => {
                       id="menu-item-544"
                       className="menu-item menu-item-type-post_type menu-item-object-page menu-item-544"
                     >
-                      <a href="#">&nbsp;</a>
+                      <a href="/#">&nbsp;</a>
                     </li>
                     <li
                       id="menu-item-527"
@@ -86,7 +86,7 @@ const Footer = () => {
                       id="menu-item-544"
                       className="menu-item menu-item-type-post_type menu-item-object-page menu-item-544"
                     >
-                      <a href="#">&nbsp;</a>
+                      <a href="/#">&nbsp;</a>
                     </li>
                     <li
                       id="menu-item-527"
@@ -112,7 +112,7 @@ const Footer = () => {
                       <a
                         className="social-icons"
                         title="Facebook"
-                        href="#"
+                        href="/#"
                         target="_blank"
                       >
                         <i className="fa fa-facebook" />
@@ -120,7 +120,7 @@ const Footer = () => {
                       <a
                         className="social-icons"
                         title="Twitter"
-                        href="#"
+                        href="/#"
                         target="_blank"
                       >
                         <i className="fa fa-twitter" />
@@ -128,7 +128,7 @@ const Footer = () => {
                       <a
                         className="social-icons"
                         title="Youtube"
-                        href="#"
+                        href="/#"
                         target="_blank"
                       >
                         <i className="fa fa-youtube" />
@@ -136,7 +136,7 @@ const Footer = () => {
                       <a
                         className="social-icons"
                         title="Google +"
-                        href="#"
+                        href="/#"
                         target="_blank"
                       >
                         <i className="fa fa-google-plus" />
@@ -144,7 +144,7 @@ const Footer = () => {
                       <a
                         className="social-icons"
                         title="Instagram"
-                        href="#"
+                        href="/#"
                         target="_blank"
                       >
                         <i className="fa fa-instagram" />

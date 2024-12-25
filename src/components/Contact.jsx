@@ -236,8 +236,7 @@ const Contact = () => {
                                 </div>
                                 <h3>Phone</h3>
                                 <div className="feature-box-content">
-                                  (003) 8895 5555 574&lt;br /&gt; +91 5586 99654
-                                  22
+                                  +91 9076040468 / +91 8860783250
                                 </div>
                               </div>
                             </div>
@@ -260,7 +259,7 @@ const Contact = () => {
                                 </div>
                                 <h3>Email</h3>
                                 <div className="feature-box-content">
-                                  info@consultancy.com
+                                  info@legalNest.co
                                 </div>
                               </div>
                             </div>
@@ -269,105 +268,6 @@ const Contact = () => {
                               style={{ height: 32 }}
                             >
                               <span className="vc_empty_space_inner" />
-                            </div>
-                            <div className="st-feature-box-wraper st-feature-box-layout1 text-default">
-                              <div className="st-feature-box">
-                                <div className="st-feature-box-icon">
-                                  <div className="feature-box-image">
-                                    <img
-                                      decoding="async"
-                                      src="../wp-content/uploads/2015/11/icontact4.png"
-                                      alt=""
-                                    />
-                                  </div>
-                                </div>
-                                <h3>Social media</h3>
-                                <div className="feature-box-content" />
-                              </div>
-                            </div>
-                            <div className="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1448773432099">
-                              <div className="wpb_column vc_column_container vc_col-sm-3">
-                                <div className="vc_column-inner">
-                                  <div className="wpb_wrapper">
-                                    <div className="vc_icon_element vc_icon_element-outer vc_do_icon vc_icon_element-align-left">
-                                      <div className="vc_icon_element-inner vc_icon_element-color-custom vc_icon_element-size-xs vc_icon_element-style- vc_icon_element-background-color-grey">
-                                        <span
-                                          className="vc_icon_element-icon fa fa-facebook"
-                                          style={{
-                                            color: "#698591 !important",
-                                          }}
-                                        />
-                                        <a
-                                          className="vc_icon_element-link"
-                                          href="#"
-                                          title=""
-                                          target="_self"
-                                        />
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                              <div className="wpb_column vc_column_container vc_col-sm-3">
-                                <div className="vc_column-inner">
-                                  <div className="wpb_wrapper">
-                                    <div className="vc_icon_element vc_icon_element-outer vc_do_icon vc_icon_element-align-left">
-                                      <div className="vc_icon_element-inner vc_icon_element-color-custom vc_icon_element-size-xs vc_icon_element-style- vc_icon_element-background-color-grey">
-                                        <span
-                                          className="vc_icon_element-icon fa fa-twitter"
-                                          style={{
-                                            color: "#698591 !important",
-                                          }}
-                                        />
-                                        <a
-                                          className="vc_icon_element-link"
-                                          href="#"
-                                          title=""
-                                          target="_self"
-                                        />
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                              <div className="wpb_column vc_column_container vc_col-sm-3">
-                                <div className="vc_column-inner">
-                                  <div className="wpb_wrapper">
-                                    <div className="vc_icon_element vc_icon_element-outer vc_do_icon vc_icon_element-align-left">
-                                      <div className="vc_icon_element-inner vc_icon_element-color-custom vc_icon_element-size-xs vc_icon_element-style- vc_icon_element-background-color-grey">
-                                        <span
-                                          className="vc_icon_element-icon fa fa-google-plus"
-                                          style={{
-                                            color: "#698591 !important",
-                                          }}
-                                        />
-                                        <a
-                                          className="vc_icon_element-link"
-                                          href="#"
-                                          title=""
-                                          target="_self"
-                                        />
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                              <div className="wpb_column vc_column_container vc_col-sm-3">
-                                <div className="vc_column-inner">
-                                  <div className="wpb_wrapper">
-                                    <div className="vc_icon_element vc_icon_element-outer vc_do_icon vc_icon_element-align-left">
-                                      <div className="vc_icon_element-inner vc_icon_element-color-custom vc_icon_element-size-xs vc_icon_element-style- vc_icon_element-background-color-grey">
-                                        <span
-                                          className="vc_icon_element-icon fa fa-youtube"
-                                          style={{
-                                            color: "#698591 !important",
-                                          }}
-                                        />
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
                             </div>
                           </div>
                         </div>

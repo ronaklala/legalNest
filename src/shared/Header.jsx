@@ -1,6 +1,16 @@
 import React from "react";
+import $ from "jquery";
 
 const Header = () => {
+  const openMenu = () => {
+    if ($("#site-navigation").hasClass("toggled") === false) {
+      $("#site-navigation").removeClass("main-navigation pull-right toggled");
+      $("#site-navigation").addClass("main-navigation pull-right toggled");
+    } else {
+      $("#site-navigation").removeClass("toggled");
+    }
+  };
+
   return (
     <header id="masthead" className="site-header">
       <div className="top-menu-social clearfix">
@@ -11,7 +21,7 @@ const Header = () => {
               <a
                 className="header-social-icons"
                 title="Facebook"
-                href="#"
+                href="/#"
                 target="_blank"
               >
                 <i className="icon-social-facebook icons" />
@@ -19,7 +29,7 @@ const Header = () => {
               <a
                 className="header-social-icons"
                 title="Twitter"
-                href="#"
+                href="/#"
                 target="_blank"
               >
                 <i className="icon-social-twitter icons" />
@@ -27,7 +37,7 @@ const Header = () => {
               <a
                 className="header-social-icons"
                 title="Linkedin"
-                href="#"
+                href="/#"
                 target="_blank"
               >
                 <i className="icon-social-linkedin icons" />
@@ -39,13 +49,13 @@ const Header = () => {
                   id="menu-item-451"
                   className="icon-envelope-open icons menu-item menu-item-type-custom menu-item-object-custom menu-item-451"
                 >
-                  <a href="#">info@legalNest.co</a>
+                  <a href="/#">info@legalNest.co</a>
                 </li>
                 <li
                   id="menu-item-452"
                   className="icon-screen-smartphone icons menu-item menu-item-type-custom menu-item-object-custom menu-item-452"
                 >
-                  <a href="#">: 9076040468</a>
+                  <a href="/#">: 9076040468</a>
                 </li>
               </ul>
             </div>
@@ -76,6 +86,7 @@ const Header = () => {
                   className="menu-toggle pull-right"
                   aria-controls="primary-menu"
                   aria-expanded="false"
+                  onClick={openMenu}
                 >
                   <i className="fa fa-bars" />
                 </nav>

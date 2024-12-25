@@ -56,13 +56,13 @@ const Team = () => {
                                             <img
                                               decoding="async"
                                               alt=""
-                                              src="../wp-content/uploads/2015/11/team5-500x500.jpg"
+                                              src="https://i.ibb.co/ZzJPb1V/Whats-App-Image-2024-12-21-at-20-06-24-e07c7dc9.jpg"
                                             />
                                           </div>
                                         </div>
                                         <div className="st-team-meta">
                                           <h3 className="st-team-name">
-                                            <a href="#">Mantra</a>
+                                            <a href="/#">Mantra</a>
                                           </h3>
                                           <small className="st-team-position primary-color">
                                             Founder and CEO
@@ -178,7 +178,7 @@ const Team = () => {
                                           <a
                                             className="team-social"
                                             title="Facebook"
-                                            href="#"
+                                            href="/#"
                                             target="_blank"
                                           >
                                             <i className="fa fa-facebook" />
@@ -186,7 +186,7 @@ const Team = () => {
                                           <a
                                             className="team-social"
                                             title="Twitter"
-                                            href="#"
+                                            href="/#"
                                             target="_blank"
                                           >
                                             <i className="fa fa-twitter" />
@@ -194,7 +194,7 @@ const Team = () => {
                                           <a
                                             className="team-social"
                                             title="Pinterest"
-                                            href="#"
+                                            href="/#"
                                             target="_blank"
                                           >
                                             <i className="fa fa-pinterest-p" />
@@ -202,7 +202,7 @@ const Team = () => {
                                           <a
                                             className="team-social"
                                             title="Linkedin"
-                                            href="#"
+                                            href="/#"
                                             target="_blank"
                                           >
                                             <i className="fa fa-linkedin" />
@@ -245,7 +245,7 @@ const Team = () => {
                                           <a
                                             className="team-social"
                                             title="Facebook"
-                                            href="#"
+                                            href="/#"
                                             target="_blank"
                                           >
                                             <i className="fa fa-facebook" />
@@ -253,7 +253,7 @@ const Team = () => {
                                           <a
                                             className="team-social"
                                             title="Twitter"
-                                            href="#"
+                                            href="/#"
                                             target="_blank"
                                           >
                                             <i className="fa fa-twitter" />
@@ -261,7 +261,7 @@ const Team = () => {
                                           <a
                                             className="team-social"
                                             title="Pinterest"
-                                            href="#"
+                                            href="/#"
                                             target="_blank"
                                           >
                                             <i className="fa fa-pinterest-p" />
@@ -269,7 +269,7 @@ const Team = () => {
                                           <a
                                             className="team-social"
                                             title="Google"
-                                            href="#"
+                                            href="/#"
                                             target="_blank"
                                           >
                                             <i className="fa fa-google" />
@@ -286,35 +286,6 @@ const Team = () => {
                       </div>
                     </div>
                     <br />
-                    <br />
-                    <div className="vc_row wpb_row vc_row-fluid vc_custom_1451731443404">
-                      <div className="wpb_column vc_column_container vc_col-sm-6">
-                        <div className="vc_column-inner">
-                          <div className="wpb_wrapper">
-                            <a
-                              href="/Contact"
-                              className="btn btn-regular tertiary-background right"
-                            >
-                              CONTACT US
-                              <i className="" />
-                            </a>
-                          </div>
-                        </div>
-                      </div>
-                      <div className="wpb_column vc_column_container vc_col-sm-6">
-                        <div className="vc_column-inner">
-                          <div className="wpb_wrapper">
-                            <a
-                              href="#"
-                              className="btn btn-regular secondary-background left"
-                            >
-                              CAREER
-                              <i className="" />
-                            </a>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
                     <br />
                     <div className="vc_row wpb_row vc_row-fluid vc_custom_1448546764167">
                       <div className="wpb_column vc_column_container vc_col-sm-12">
@@ -367,7 +338,7 @@ const Team = () => {
                                 </div>
                                 <div className="col-xs-12 col-sm-4 col-md-4 col-lg-4 call-to-action-button text-default">
                                   <a
-                                    href="#"
+                                    href="/#"
                                     className="btn btn-regular btn-custom"
                                     style={{
                                       backgroundColor: "#fe5722",

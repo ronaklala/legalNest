@@ -7977,12 +7977,7 @@ body .vc_color-danger.vc_message_box {
   text-align: center;
 }
 .st-team-layout2 .st-team-image img {
-  -webkit-border-radius: 50%;
-  -khtml-border-radius: 50%;
-  -moz-border-radius: 50%;
-  -ms-border-radius: 50%;
-  -o-border-radius: 50%;
-  border-radius: 50%;
+  
   width: 80%;
   max-width: 206px;
   margin: 0 auto;
@@ -8014,6 +8009,7 @@ body .vc_color-danger.vc_message_box {
 }
 .st-team-layout2 .st-team-desctiption {
   padding-top: 20px;
+  text-align: left;
 }
 .st-team-layout2 a {
   color: #848d94;

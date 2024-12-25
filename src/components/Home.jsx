@@ -555,7 +555,7 @@ const Home = () => {
                                             <div className="st-partner-inner clearfix">
                                               <div className="st-partner-image">
                                                 {" "}
-                                                <a href="#">
+                                                <a href="/#">
                                                   <img
                                                     decoding="async"
                                                     src="wp-content/uploads/2015/11/partner1.png"
@@ -577,7 +577,7 @@ const Home = () => {
                                             <div className="st-partner-inner clearfix">
                                               <div className="st-partner-image">
                                                 {" "}
-                                                <a href="#">
+                                                <a href="/#">
                                                   <img
                                                     decoding="async"
                                                     src="wp-content/uploads/2015/11/partner2.png"
@@ -599,7 +599,7 @@ const Home = () => {
                                             <div className="st-partner-inner clearfix">
                                               <div className="st-partner-image">
                                                 {" "}
-                                                <a href="#">
+                                                <a href="/#">
                                                   <img
                                                     decoding="async"
                                                     src="wp-content/uploads/2015/11/partner3.png"
@@ -621,7 +621,7 @@ const Home = () => {
                                             <div className="st-partner-inner clearfix">
                                               <div className="st-partner-image">
                                                 {" "}
-                                                <a href="#">
+                                                <a href="/#">
                                                   <img
                                                     decoding="async"
                                                     src="wp-content/uploads/2015/11/partner4.png"
@@ -643,7 +643,7 @@ const Home = () => {
                                             <div className="st-partner-inner clearfix">
                                               <div className="st-partner-image">
                                                 {" "}
-                                                <a href="#">
+                                                <a href="/#">
                                                   <img
                                                     decoding="async"
                                                     src="wp-content/uploads/2015/11/partner5.png"
@@ -665,7 +665,7 @@ const Home = () => {
                                             <div className="st-partner-inner clearfix">
                                               <div className="st-partner-image">
                                                 {" "}
-                                                <a href="#">
+                                                <a href="/#">
                                                   <img
                                                     decoding="async"
                                                     src="wp-content/uploads/2015/11/partner6.png"
@@ -687,7 +687,7 @@ const Home = () => {
                                             <div className="st-partner-inner clearfix">
                                               <div className="st-partner-image">
                                                 {" "}
-                                                <a href="#">
+                                                <a href="/#">
                                                   <img
                                                     decoding="async"
                                                     src="wp-content/uploads/2015/11/partner7.png"
@@ -709,7 +709,7 @@ const Home = () => {
                                             <div className="st-partner-inner clearfix">
                                               <div className="st-partner-image">
                                                 {" "}
-                                                <a href="#">
+                                                <a href="/#">
                                                   <img
                                                     decoding="async"
                                                     src="wp-content/uploads/2015/11/partner8.png"

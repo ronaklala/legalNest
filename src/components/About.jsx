@@ -144,6 +144,8 @@ const About = () => {
                                 </div>
                               </div>
                             </div>
+                            <br />
+
                             <div className="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1448509352887">
                               <div className="wpb_column vc_column_container vc_col-sm-12">
                                 <div className="vc_column-inner">
@@ -170,6 +172,7 @@ const About = () => {
                                 </div>
                               </div>
                             </div>
+                            <br />
                             <div className="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1448509369126">
                               <div className="wpb_column vc_column_container vc_col-sm-12">
                                 <div className="vc_column-inner">
@@ -196,6 +199,7 @@ const About = () => {
                                 </div>
                               </div>
                             </div>
+                            <br />
                             <div className="vc_row wpb_row vc_inner vc_row-fluid">
                               <div className="wpb_column vc_column_container vc_col-sm-12">
                                 <div className="vc_column-inner">
@@ -222,6 +226,7 @@ const About = () => {
                                 </div>
                               </div>
                             </div>
+                            <br />
                           </div>
                         </div>
                       </div>
@@ -260,213 +265,58 @@ const About = () => {
                     <br />
                     <br />
                     <br />
-                    <div className="vc_row-full-width vc_clearfix" />
-                    <div className="vc_row wpb_row vc_row-fluid vc_custom_1448458503527">
-                      <div className="wpb_column vc_column_container vc_col-sm-12">
+                    <div
+                      data-vc-full-width="true"
+                      data-vc-full-width-init="false"
+                      className="vc_row wpb_row vc_row-fluid vc_custom_1448505249214 vc_row-has-fill"
+                    >
+                      <div className="wpb_column vc_column_container vc_col-sm-3">
                         <div className="vc_column-inner">
                           <div className="wpb_wrapper">
                             <div
-                              className="st-custom-heading-wraper st-custom-heading-layout2 text-center"
-                              style={{ marginBottom: 40 }}
+                              className="st-custom-heading-wraper st-custom-heading-layout2 text-default"
+                              style={{ marginBottom: "" }}
                             >
                               <h2
                                 className="st-heading-title"
                                 style={{ color: "" }}
                               >
-                                <span> Our Clients</span>
+                                <span style={{ lineHeight: "35px" }}>
+                                  {" "}
+                                  Secretarial Auditing Expertise
+                                </span>
                               </h2>
                               <hr
                                 className="heading-line"
                                 style={{ background: "" }}
                               />
                             </div>
-                            <div className="st-carousel-all-wrap st-carousel-all-layout1">
-                              <div
-                                className="st-carousel"
-                                data-margin={30}
-                                data-loop="false"
-                                data-nav="false"
-                                data-dots="true"
-                                data-autoplay="true"
-                                data-xsmall-items={3}
-                                data-small-items={4}
-                                data-medium-items={5}
-                                data-large-items={6}
-                              >
-                                <div className="vc_row wpb_row vc_inner vc_row-fluid">
-                                  <div className="wpb_column vc_column_container vc_col-sm-12">
-                                    <div className="vc_column-inner">
-                                      <div className="wpb_wrapper">
-                                        <div className="st-partner-wraper st-partner-layout1">
-                                          <div className="st-partner-inner clearfix">
-                                            <div className="st-partner-image">
-                                              <a href="#">
-                                                <img
-                                                  decoding="async"
-                                                  src="../wp-content/uploads/2015/11/partner1.png"
-                                                  alt=""
-                                                />
-                                              </a>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                                <div className="vc_row wpb_row vc_inner vc_row-fluid">
-                                  <div className="wpb_column vc_column_container vc_col-sm-12">
-                                    <div className="vc_column-inner">
-                                      <div className="wpb_wrapper">
-                                        <div className="st-partner-wraper st-partner-layout1">
-                                          <div className="st-partner-inner clearfix">
-                                            <div className="st-partner-image">
-                                              <a href="#">
-                                                <img
-                                                  decoding="async"
-                                                  src="../wp-content/uploads/2015/11/partner2.png"
-                                                  alt=""
-                                                />
-                                              </a>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                                <div className="vc_row wpb_row vc_inner vc_row-fluid">
-                                  <div className="wpb_column vc_column_container vc_col-sm-12">
-                                    <div className="vc_column-inner">
-                                      <div className="wpb_wrapper">
-                                        <div className="st-partner-wraper st-partner-layout1">
-                                          <div className="st-partner-inner clearfix">
-                                            <div className="st-partner-image">
-                                              <a href="#">
-                                                <img
-                                                  decoding="async"
-                                                  src="../wp-content/uploads/2015/11/partner3.png"
-                                                  alt=""
-                                                />
-                                              </a>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                                <div className="vc_row wpb_row vc_inner vc_row-fluid">
-                                  <div className="wpb_column vc_column_container vc_col-sm-12">
-                                    <div className="vc_column-inner">
-                                      <div className="wpb_wrapper">
-                                        <div className="st-partner-wraper st-partner-layout1">
-                                          <div className="st-partner-inner clearfix">
-                                            <div className="st-partner-image">
-                                              <a href="#">
-                                                <img
-                                                  decoding="async"
-                                                  src="../wp-content/uploads/2015/11/partner4.png"
-                                                  alt=""
-                                                />
-                                              </a>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                                <div className="vc_row wpb_row vc_inner vc_row-fluid">
-                                  <div className="wpb_column vc_column_container vc_col-sm-12">
-                                    <div className="vc_column-inner">
-                                      <div className="wpb_wrapper">
-                                        <div className="st-partner-wraper st-partner-layout1">
-                                          <div className="st-partner-inner clearfix">
-                                            <div className="st-partner-image">
-                                              <a href="#">
-                                                <img
-                                                  decoding="async"
-                                                  src="../wp-content/uploads/2015/11/partner5.png"
-                                                  alt=""
-                                                />
-                                              </a>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                                <div className="vc_row wpb_row vc_inner vc_row-fluid">
-                                  <div className="wpb_column vc_column_container vc_col-sm-12">
-                                    <div className="vc_column-inner">
-                                      <div className="wpb_wrapper">
-                                        <div className="st-partner-wraper st-partner-layout1">
-                                          <div className="st-partner-inner clearfix">
-                                            <div className="st-partner-image">
-                                              <a href="#">
-                                                <img
-                                                  decoding="async"
-                                                  src="../wp-content/uploads/2015/11/partner6.png"
-                                                  alt=""
-                                                />
-                                              </a>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                                <div className="vc_row wpb_row vc_inner vc_row-fluid">
-                                  <div className="wpb_column vc_column_container vc_col-sm-12">
-                                    <div className="vc_column-inner">
-                                      <div className="wpb_wrapper">
-                                        <div className="st-partner-wraper st-partner-layout1">
-                                          <div className="st-partner-inner clearfix">
-                                            <div className="st-partner-image">
-                                              <a href="#">
-                                                <img
-                                                  decoding="async"
-                                                  src="../wp-content/uploads/2015/11/partner7.png"
-                                                  alt=""
-                                                />
-                                              </a>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                                <div className="vc_row wpb_row vc_inner vc_row-fluid">
-                                  <div className="wpb_column vc_column_container vc_col-sm-12">
-                                    <div className="vc_column-inner">
-                                      <div className="wpb_wrapper">
-                                        <div className="st-partner-wraper st-partner-layout1">
-                                          <div className="st-partner-inner clearfix">
-                                            <div className="st-partner-image">
-                                              <a href="#">
-                                                <img
-                                                  decoding="async"
-                                                  src="../wp-content/uploads/2015/11/partner8.png"
-                                                  alt=""
-                                                />
-                                              </a>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="wpb_column vc_column_container vc_col-sm-9">
+                        <div className="vc_column-inner">
+                          <div className="wpb_wrapper">
+                            <div className="wpb_text_column wpb_content_element vc_custom_1451638423947">
+                              <div className="wpb_wrapper">
+                                <p>
+                                  As seasoned Secretarial Auditors, we have
+                                  served a diverse clientele, including Banks,
+                                  Financial Services, PSU's, Private, Public,
+                                  Listed, and MNC companies for the past two
+                                  decades. The majority of our senior partners
+                                  bring over 10 years of invaluable experience
+                                  in the secretarial, compliance, and legal
+                                  fields.
+                                </p>
                               </div>
                             </div>
                           </div>
                         </div>
                       </div>
                     </div>
+                    <div className="vc_row-full-width vc_clearfix" />
+
                     <div
                       data-vc-full-width="true"
                       data-vc-full-width-init="false"
@@ -495,7 +345,7 @@ const About = () => {
                                 </div>
                                 <div className="col-xs-12 col-sm-4 col-md-4 col-lg-4 call-to-action-button text-default">
                                   <a
-                                    href="#"
+                                    href="/#"
                                     className="btn btn-regular btn-custom"
                                     style={{
                                       backgroundColor: "#fe5722",
