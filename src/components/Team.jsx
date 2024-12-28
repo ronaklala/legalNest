@@ -87,12 +87,10 @@ const Team = () => {
                                             Legal, positioning him as a thought
                                             leader in his field.
                                           </p>
-
                                           <p>
                                             Mr. Jha has demonstrated expertise
                                             in areas such as:
                                           </p>
-
                                           <p>
                                             <strong>
                                               Regulatory Compliance and
@@ -105,7 +103,6 @@ const Team = () => {
                                             seamless regulatory audits and
                                             inspections.
                                           </p>
-
                                           <p>
                                             <strong>
                                               Compliance Strategy and
@@ -120,7 +117,6 @@ const Team = () => {
                                             national and international
                                             standards.
                                           </p>
-
                                           <p>
                                             <strong>
                                               Risk Management and Legal
@@ -133,38 +129,34 @@ const Team = () => {
                                             negotiations, and dispute
                                             resolutions.
                                           </p>
-
                                           <p>
                                             <strong>
                                               Policy Formulation and Quality
-                                              Assurance:
+                                              Assurance
                                             </strong>
                                           </p>
-
                                           <p>Mr. Jha’s achievements include:</p>
-
-                                          <p>
-                                            1. Leading high-stakes regulatory
-                                            engagements, fostering trust, and
-                                            strengthening relationships with
-                                            regulatory authorities.
-                                          </p>
-
-                                          <p>
-                                            2. Driving compliance transformation
-                                            initiatives, resulting in improved
-                                            risk mitigation and enhanced
-                                            organizational resilience.
-                                          </p>
-
-                                          <p>
-                                            3. Managing end-to-end legal
-                                            operations, including contract
-                                            management, intellectual property,
-                                            corporate litigation, and advisory
-                                            services.
-                                          </p>
-
+                                          <ul>
+                                            <li>
+                                              Leading high-stakes regulatory
+                                              engagements, fostering trust, and
+                                              strengthening relationships with
+                                              regulatory authorities.
+                                            </li>
+                                            <li>
+                                              Driving compliance transformation
+                                              initiatives, resulting in improved
+                                              risk mitigation and enhanced
+                                              organizational resilience.
+                                            </li>
+                                            <li>
+                                              Managing end-to-end legal
+                                              operations, including contract
+                                              management, intellectual property,
+                                              corporate litigation, and advisory
+                                              services.
+                                            </li>
+                                          </ul>
                                           <p>
                                             Beyond his technical acumen, his
                                             forward-thinking approach enables
@@ -223,23 +215,83 @@ const Team = () => {
                                             <img
                                               decoding="async"
                                               alt=""
-                                              src="../wp-content/uploads/2015/11/team6-500x500.jpg"
+                                              src="https://i.ibb.co/Ttvp4hZ/Whats-App-Image-2024-12-27-at-12-41-48-eef19e49.jpg"
                                             />
                                           </div>
                                         </div>
                                         <div className="st-team-meta">
                                           <h3 className="st-team-name">
-                                            Fracncis Kunjappa
+                                            Barkha Chettri
                                           </h3>
                                           <small className="st-team-position primary-color">
                                             Designation
                                           </small>
                                         </div>
                                         <div className="st-team-desctiption">
-                                          Lorem Ipsum is simply dummy text of
-                                          the printing typesetting industry.
-                                          Lorem Ipsum has been the industry's
-                                          standard dummy .
+                                          <p>
+                                            Ms. Barkha Chhetri, an Associate
+                                            Member of the Institute of Company
+                                            Secretaries of India (ICSI), is a
+                                            distinguished professional with over
+                                            nine years of comprehensive
+                                            experience in Corporate Secretarial
+                                            and Business Advisory services.
+                                          </p>
+                                          <p>
+                                            She specializes in managing complex
+                                            corporate, legal, and statutory
+                                            matters, including obtaining
+                                            critical regulatory approvals from
+                                            the National Company Law Tribunal
+                                            (NCLT), Regional Directors, and the
+                                            Central Government.
+                                          </p>
+                                          <p>
+                                            Her expertise encompasses
+                                            secretarial compliance, corporate
+                                            governance, and strategic advisory,
+                                            ensuring organizations uphold the
+                                            highest standards of ethical and
+                                            regulatory practices.
+                                          </p>
+                                          <p>
+                                            Skilled in fundraising through
+                                            equity and debt instruments, Ms.
+                                            Chhetri has successfully structured
+                                            capital-raising initiatives,
+                                            aligning them with financial and
+                                            statutory requirements.
+                                          </p>
+                                          <p>
+                                            She excels in stakeholder and board
+                                            management, fostering collaborative
+                                            relationships with investors,
+                                            directors, and regulatory bodies
+                                            while streamlining board processes
+                                            and decision-making.
+                                          </p>
+                                          <p>
+                                            A seasoned problem-solver, she
+                                            adeptly navigates intricate legal
+                                            frameworks, mitigating compliance
+                                            risks and driving operational
+                                            efficiency.
+                                          </p>
+                                          <p>
+                                            Beyond her technical expertise, she
+                                            is a leader and mentor, fostering
+                                            high-performing teams and aligning
+                                            organizational goals with regulatory
+                                            and governance strategies.
+                                          </p>
+                                          <p>
+                                            Her unwavering dedication, strategic
+                                            foresight, and meticulous approach
+                                            make her a trusted advisor and a key
+                                            contributor to the success of
+                                            organizations seeking sustainable
+                                            growth and compliance excellence.
+                                          </p>
                                         </div>
                                         <div className="st-team-social">
                                           <a
@@ -338,7 +390,7 @@ const Team = () => {
                                 </div>
                                 <div className="col-xs-12 col-sm-4 col-md-4 col-lg-4 call-to-action-button text-default">
                                   <a
-                                    href="/#"
+                                    href="/Contact"
                                     className="btn btn-regular btn-custom"
                                     style={{
                                       backgroundColor: "#fe5722",

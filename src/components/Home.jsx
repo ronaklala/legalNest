@@ -514,7 +514,7 @@ const Home = () => {
                         </div>
                       </div>
                       <div className="vc_row-full-width vc_clearfix" />
-                      <div className="vc_row wpb_row vc_row-fluid vc_custom_1451637598418">
+                      {/* <div className="vc_row wpb_row vc_row-fluid vc_custom_1451637598418">
                         <div className="wpb_column vc_column_container vc_col-sm-12">
                           <div className="vc_column-inner">
                             <div className="wpb_wrapper">
@@ -728,7 +728,7 @@ const Home = () => {
                             </div>
                           </div>
                         </div>
-                      </div>
+                      </div> */}
                       <div className="vc_row-full-width vc_clearfix" />
                     </div>
                   </div>
