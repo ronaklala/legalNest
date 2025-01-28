@@ -47,7 +47,6 @@ const Home = () => {
                                         style={{ position: "absolute" }}
                                         data-key="rs-5"
                                         data-title="Slide"
-                                        data-thumb="https://demo.themeamber.com/consultancy/wp-content/uploads/2015/12/slider1-50x50.jpg"
                                         data-anim="ms:600;"
                                         data-in="o:0;"
                                         data-out="a:false;"

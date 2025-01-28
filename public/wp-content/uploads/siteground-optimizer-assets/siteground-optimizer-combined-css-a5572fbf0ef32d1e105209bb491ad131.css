@@ -11718,9 +11718,7 @@ object {
 .icon-trophy:before {
   content: "\e006";
 }
-.icon-screen-smartphone:before {
-  content: "\e010";
-}
+
 .icon-screen-desktop:before {
   content: "\e011";
 }
@@ -11788,7 +11786,8 @@ object {
   content: "\e01d";
 }
 .icon-envelope-open:before {
-  content: "\e01e";
+  content: "\f0e0";
+  font-family: "Font Awesome 5 Free";
 }
 .icon-envelope-letter:before {
   content: "\e01f";
