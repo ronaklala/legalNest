@@ -62,7 +62,7 @@ const Team = () => {
                                         </div>
                                         <div className="st-team-meta">
                                           <h3 className="st-team-name">
-                                            <a href="/#">Mantra</a>
+                                            <a href="/#">Mantra Jha</a>
                                           </h3>
                                           <small className="st-team-position primary-color">
                                             Founder and CEO
@@ -87,54 +87,7 @@ const Team = () => {
                                             Legal, positioning him as a thought
                                             leader in his field.
                                           </p>
-                                          <p>
-                                            Mr. Jha has demonstrated expertise
-                                            in areas such as:
-                                          </p>
-                                          <p>
-                                            <strong>
-                                              Regulatory Compliance and
-                                              Interface:
-                                            </strong>{" "}
-                                            Proficient in liaising with
-                                            regulatory bodies, ensuring
-                                            adherence to evolving legal
-                                            frameworks, and facilitating
-                                            seamless regulatory audits and
-                                            inspections.
-                                          </p>
-                                          <p>
-                                            <strong>
-                                              Compliance Strategy and
-                                              Implementation:
-                                            </strong>{" "}
-                                            Designed and executed compliance
-                                            programs, including Anti-Money
-                                            Laundering (AML) frameworks,
-                                            Corporate Governance policies, and
-                                            Market Conduct Monitoring
-                                            mechanisms, ensuring alignment with
-                                            national and international
-                                            standards.
-                                          </p>
-                                          <p>
-                                            <strong>
-                                              Risk Management and Legal
-                                              Advisory:
-                                            </strong>{" "}
-                                            Adept at identifying, analyzing, and
-                                            mitigating compliance and legal
-                                            risks. He has successfully managed
-                                            litigation portfolios, contractual
-                                            negotiations, and dispute
-                                            resolutions.
-                                          </p>
-                                          <p>
-                                            <strong>
-                                              Policy Formulation and Quality
-                                              Assurance
-                                            </strong>
-                                          </p>
+
                                           <p>Mr. Jha’s achievements include:</p>
                                           <ul>
                                             <li>
@@ -224,7 +177,7 @@ const Team = () => {
                                             Barkha Chettri
                                           </h3>
                                           <small className="st-team-position primary-color">
-                                            Designation
+                                            Partner
                                           </small>
                                         </div>
                                         <div className="st-team-desctiption">
@@ -232,8 +185,8 @@ const Team = () => {
                                             Ms. Barkha Chhetri, an Associate
                                             Member of the Institute of Company
                                             Secretaries of India (ICSI), is a
-                                            distinguished professional with over
-                                            nine years of comprehensive
+                                            distinguished professional with
+                                            around 10 years of comprehensive
                                             experience in Corporate Secretarial
                                             and Business Advisory services.
                                           </p>
@@ -262,14 +215,7 @@ const Team = () => {
                                             aligning them with financial and
                                             statutory requirements.
                                           </p>
-                                          <p>
-                                            She excels in stakeholder and board
-                                            management, fostering collaborative
-                                            relationships with investors,
-                                            directors, and regulatory bodies
-                                            while streamlining board processes
-                                            and decision-making.
-                                          </p>
+
                                           <p>
                                             A seasoned problem-solver, she
                                             adeptly navigates intricate legal
@@ -362,51 +308,6 @@ const Team = () => {
                       </div>
                     </div>
 
-                    <div
-                      data-vc-full-width="true"
-                      data-vc-full-width-init="false"
-                      data-vc-parallax="1.5"
-                      className="vc_row wpb_row vc_row-fluid opacity06 vc_custom_1452039498082 vc_row-has-fill vc_general vc_parallax vc_parallax-content-moving"
-                    >
-                      <div className="wpb_column vc_column_container vc_col-sm-12">
-                        <div className="vc_column-inner">
-                          <div className="wpb_wrapper">
-                            <div className="call-to-action call-to-action-layout1">
-                              <div className="row">
-                                <div className="col-xs-12 col-sm-8 col-md-8 col-lg-8 call-to-action-text text-default">
-                                  <h2
-                                    className="cta-heading"
-                                    style={{ color: "#ffffff" }}
-                                  >
-                                    CONSULTING SERVICE
-                                  </h2>
-                                  <div
-                                    className="cta-subheading"
-                                    style={{ color: "#ffffff" }}
-                                  >
-                                    We are providing wide range of Consulting
-                                    Services &amp; World wide happy Clients
-                                  </div>
-                                </div>
-                                <div className="col-xs-12 col-sm-4 col-md-4 col-lg-4 call-to-action-button text-default">
-                                  <a
-                                    href="/Contact"
-                                    className="btn btn-regular btn-custom"
-                                    style={{
-                                      backgroundColor: "#fe5722",
-                                      color: "#ffffff",
-                                    }}
-                                  >
-                                    START YOUR PROJECT NOW
-                                    <i className="fa fa-angle-right" />
-                                  </a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
                     <div className="vc_row-full-width vc_clearfix" />
                   </div>
                 </div>

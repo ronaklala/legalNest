@@ -84,7 +84,7 @@ const Home = () => {
                                             type: "text",
                                           }}
                                         >
-                                          NUMBER ONE{" "}
+                                          TRUSTED{" "}
                                         </rs-layer>
                                         {/*
                                          */}
@@ -107,7 +107,7 @@ const Home = () => {
                                             type: "text",
                                           }}
                                         >
-                                          BUSINESS CONSULTANCY{" "}
+                                          PROFESSIONAL ADVISORS{" "}
                                         </rs-layer>
                                         {/*
                                          */}
@@ -184,17 +184,30 @@ const Home = () => {
                               <div className="wpb_text_column wpb_content_element text-whitesmoke">
                                 <div className="wpb_wrapper">
                                   <p>
-                                    Mehta & Mehta stands as one of the leading
-                                    providers of corporate secretarial and
-                                    legal services, boasting a legacy of more
-                                    than three decades in the Secretarial &
-                                    Compliance domain. Currently, we operate as
-                                    a consortium of over 10 partner firms,
-                                    collectively comprising a dynamic team of
-                                    over 100 professionals. At the heart of our
-                                    business strategy lies the commitment to
-                                    fostering robust client relationships, and
-                                    steering our future development.
+                                    At “LEGALNEST PROFESSIONAL ADVSIORY”, we are
+                                    committed to empowering businesses with
+                                    expert legal and compliance solutions
+                                    tailored for today’s dynamic regulatory
+                                    landscape. With a team of experienced
+                                    attorneys, compliance specialists, and
+                                    industry professionals, we partner with our
+                                    clients to navigate complex legal challenges
+                                    and ensure their operations remain compliant
+                                    and future-ready.{" "}
+                                  </p>
+
+                                  <p>
+                                    Our firm offers comprehensive services in
+                                    corporate law, regulatory compliance, risk
+                                    management, and dispute resolution,
+                                    providing practical, proactive, and
+                                    innovative solutions.{" "}
+                                  </p>
+
+                                  <p>
+                                    We believe in fostering strong client
+                                    relationships built on trust, transparency,
+                                    and collaboration.
                                   </p>
                                 </div>
                               </div>
@@ -215,7 +228,7 @@ const Home = () => {
                                   {" "}
                                   <span className="heading-text">
                                     {" "}
-                                    Services
+                                    Key Operational Domain of the Firm
                                   </span>
                                 </h2>
                                 <hr
@@ -262,257 +275,7 @@ const Home = () => {
                         </div>
                       </div>
                       <div className="vc_row-full-width vc_clearfix" />
-                      <div className="vc_row wpb_row vc_row-fluid vc_custom_1448323025245">
-                        <div className="wpb_column vc_column_container vc_col-sm-12">
-                          <div className="vc_column-inner">
-                            <div className="wpb_wrapper">
-                              <div
-                                className="st-custom-heading-wraper st-custom-heading-layout2 text-default "
-                                style={{ marginBottom: "none" }}
-                              >
-                                <h2
-                                  className="st-heading-title"
-                                  style={{ color: "none" }}
-                                >
-                                  {" "}
-                                  <span> Projects</span>
-                                </h2>
-                                <hr
-                                  className="heading-line"
-                                  style={{ background: "none" }}
-                                />
-                              </div>
-                              <div className="st-carousel-wrap st-carousel-layout1 ">
-                                <div
-                                  className="st-carousel"
-                                  data-margin={0}
-                                  data-loop="false"
-                                  data-nav="true"
-                                  data-dots="false"
-                                  data-autoplay="true"
-                                  data-xsmall-items={1}
-                                  data-small-items={2}
-                                  data-medium-items={3}
-                                  data-large-items={4}
-                                >
-                                  <div className="st-carousel-item primary-background-hover">
-                                    <div className="st-carousel-media  has-thumbnail">
-                                      <img
-                                        fetchpriority="high"
-                                        decoding="async"
-                                        width={556}
-                                        height={312}
-                                        src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
-                                        data-src="https://demo.themeamber.com/consultancy/wp-content/uploads/2015/11/project5-556x312.jpg"
-                                        className="attachment-consultancy-project-thumb size-consultancy-project-thumb wp-post-image lazyload"
-                                        alt=""
-                                      />
-                                      <noscript>
-                                        &lt;img decoding="async" width="556"
-                                        height="312"
-                                        src="wp-content/uploads/2015/11/project5-556x312.jpg"
-                                        class="attachment-consultancy-project-thumb
-                                        size-consultancy-project-thumb
-                                        wp-post-image lazyload" alt="" /&gt;
-                                      </noscript>
-                                    </div>
-                                    <h3 className="st-carousel-title">
-                                      {" "}
-                                      <a
-                                        className="st-carousel-more"
-                                        href="portfolio/project-name-5/index.html"
-                                      >
-                                        {" "}
-                                        Project Name 5{" "}
-                                      </a>
-                                    </h3>
-                                  </div>
-                                  <div className="st-carousel-item primary-background-hover">
-                                    <div className="st-carousel-media  has-thumbnail">
-                                      <img
-                                        decoding="async"
-                                        width={556}
-                                        height={312}
-                                        src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
-                                        data-src="https://demo.themeamber.com/consultancy/wp-content/uploads/2015/11/project4-556x312.jpg"
-                                        className="attachment-consultancy-project-thumb size-consultancy-project-thumb wp-post-image lazyload"
-                                        alt=""
-                                      />
-                                      <noscript>
-                                        &lt;img decoding="async" width="556"
-                                        height="312"
-                                        src="wp-content/uploads/2015/11/project4-556x312.jpg"
-                                        class="attachment-consultancy-project-thumb
-                                        size-consultancy-project-thumb
-                                        wp-post-image lazyload" alt="" /&gt;
-                                      </noscript>
-                                    </div>
-                                    <h3 className="st-carousel-title">
-                                      {" "}
-                                      <a
-                                        className="st-carousel-more"
-                                        href="portfolio/project-name-4/index.html"
-                                      >
-                                        {" "}
-                                        Project Name 4{" "}
-                                      </a>
-                                    </h3>
-                                  </div>
-                                  <div className="st-carousel-item primary-background-hover">
-                                    <div className="st-carousel-media  has-thumbnail">
-                                      <img
-                                        decoding="async"
-                                        width={556}
-                                        height={312}
-                                        src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
-                                        data-src="https://demo.themeamber.com/consultancy/wp-content/uploads/2015/11/project3-556x312.jpg"
-                                        className="attachment-consultancy-project-thumb size-consultancy-project-thumb wp-post-image lazyload"
-                                        alt=""
-                                      />
-                                      <noscript>
-                                        &lt;img decoding="async" width="556"
-                                        height="312"
-                                        src="wp-content/uploads/2015/11/project3-556x312.jpg"
-                                        class="attachment-consultancy-project-thumb
-                                        size-consultancy-project-thumb
-                                        wp-post-image lazyload" alt="" /&gt;
-                                      </noscript>
-                                    </div>
-                                    <h3 className="st-carousel-title">
-                                      {" "}
-                                      <a
-                                        className="st-carousel-more"
-                                        href="portfolio/project-name-3/index.html"
-                                      >
-                                        {" "}
-                                        Project Name 3{" "}
-                                      </a>
-                                    </h3>
-                                  </div>
-                                  <div className="st-carousel-item primary-background-hover">
-                                    <div className="st-carousel-media  has-thumbnail">
-                                      <img
-                                        decoding="async"
-                                        width={556}
-                                        height={312}
-                                        src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
-                                        data-src="https://demo.themeamber.com/consultancy/wp-content/uploads/2015/11/project2-556x312.jpg"
-                                        className="attachment-consultancy-project-thumb size-consultancy-project-thumb wp-post-image lazyload"
-                                        alt=""
-                                      />
-                                      <noscript>
-                                        &lt;img decoding="async" width="556"
-                                        height="312"
-                                        src="wp-content/uploads/2015/11/project2-556x312.jpg"
-                                        class="attachment-consultancy-project-thumb
-                                        size-consultancy-project-thumb
-                                        wp-post-image lazyload" alt="" /&gt;
-                                      </noscript>
-                                    </div>
-                                    <h3 className="st-carousel-title">
-                                      {" "}
-                                      <a
-                                        className="st-carousel-more"
-                                        href="portfolio/project-name-2/index.html"
-                                      >
-                                        {" "}
-                                        Project Name 2{" "}
-                                      </a>
-                                    </h3>
-                                  </div>
-                                  <div className="st-carousel-item primary-background-hover">
-                                    <div className="st-carousel-media  has-thumbnail">
-                                      <img
-                                        decoding="async"
-                                        width={556}
-                                        height={312}
-                                        src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
-                                        data-src="https://demo.themeamber.com/consultancy/wp-content/uploads/2015/11/project1-556x312.jpg"
-                                        className="attachment-consultancy-project-thumb size-consultancy-project-thumb wp-post-image lazyload"
-                                        alt=""
-                                      />
-                                      <noscript>
-                                        &lt;img decoding="async" width="556"
-                                        height="312"
-                                        src="wp-content/uploads/2015/11/project1-556x312.jpg"
-                                        class="attachment-consultancy-project-thumb
-                                        size-consultancy-project-thumb
-                                        wp-post-image lazyload" alt="" /&gt;
-                                      </noscript>
-                                    </div>
-                                    <h3 className="st-carousel-title">
-                                      {" "}
-                                      <a
-                                        className="st-carousel-more"
-                                        href="portfolio/project-name-1/index.html"
-                                      >
-                                        {" "}
-                                        Project Name 1{" "}
-                                      </a>
-                                    </h3>
-                                  </div>
-                                </div>
-                              </div>
-                              <div className="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text vc_custom_1451625476250 wpb_content_element  vc_custom_1451625476250 wpb_content_element">
-                                <span className="vc_sep_holder vc_sep_holder_l">
-                                  <span
-                                    style={{ borderColor: "#e5e7ed" }}
-                                    className="vc_sep_line"
-                                  />
-                                </span>
-                                <span className="vc_sep_holder vc_sep_holder_r">
-                                  <span
-                                    style={{ borderColor: "#e5e7ed" }}
-                                    className="vc_sep_line"
-                                  />
-                                </span>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div className="vc_row wpb_row vc_row-fluid vc_custom_1448328959842">
-                        <div className="wpb_column vc_column_container vc_col-sm-12">
-                          <div className="vc_column-inner">
-                            <div className="wpb_wrapper">
-                              <div className="vc_row wpb_row vc_inner vc_row-fluid">
-                                <div className="wpb_column vc_column_container vc_col-sm-12">
-                                  <div className="vc_column-inner">
-                                    <div className="wpb_wrapper">
-                                      <div className="contact-info tertiary-background contact-info-layout1 ">
-                                        <div className="row">
-                                          <div className="col-xs-12 col-sm-6 col-md-6 col-lg-6 contact-phone">
-                                            <i className="icon-screen-smartphone icons pull-left" />
-                                            <div className="contact-title pull-left">
-                                              {" "}
-                                              Call now <br />
-                                            </div>
-                                            <div className="contact-detail pull-left">
-                                              {" "}
-                                              : 9076040468
-                                            </div>
-                                          </div>
-                                          <div className="col-xs-12 col-sm-6 col-md-6 col-lg-6 contact-email">
-                                            <i className="icon-envelope-open icons pull-left" />
-                                            <div className="contact-title pull-left">
-                                              {" "}
-                                              Mail now <br />
-                                            </div>
-                                            <div className="contact-detail pull-left">
-                                              {" "}
-                                              : Info@legalNest.com
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
+
                       <div className="vc_row-full-width vc_clearfix" />
                       {/* <div className="vc_row wpb_row vc_row-fluid vc_custom_1451637598418">
                         <div className="wpb_column vc_column_container vc_col-sm-12">
@@ -884,7 +647,7 @@ const Home = () => {
                                   style={{ color: "" }}
                                 >
                                   <span className="heading-text">
-                                    Work to be UnderTaken
+                                    Key Operational Domain of the Firm
                                   </span>
                                 </h2>
                                 <hr

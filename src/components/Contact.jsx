@@ -142,6 +142,29 @@ const Contact = () => {
                                     </span>
                                   </p>
                                 </div>
+
+                                <div>
+                                  <p>
+                                    <span
+                                      className="wpcf7-form-control-wrap"
+                                      data-name="your-message"
+                                    >
+                                      <input
+                                        size={40}
+                                        maxLength={400}
+                                        className="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text"
+                                        aria-required="true"
+                                        aria-invalid="false"
+                                        placeholder="Phone Number*"
+                                        defaultValue=""
+                                        type="number"
+                                        name="your-number"
+                                        style={{ width: "100%" }}
+                                      />
+                                    </span>
+                                  </p>
+                                </div>
+
                                 <div>
                                   <p>
                                     <span
@@ -210,13 +233,36 @@ const Contact = () => {
                                     />
                                   </div>
                                 </div>
-                                <h3>Address</h3>
+
+                                <h3>Address Mumbai</h3>
                                 <div className="feature-box-content">
-                                  2544 Dummy text of the&lt;br /&gt; printing
-                                  and typesetting Kerala 5586
+                                  BLARAC 1004, JP North Garden, Mira Road,
+                                  Maharashtra - 401100
+                                </div>
+                                <br />
+                              </div>
+                            </div>
+
+                            <div className="st-feature-box-wraper st-feature-box-layout1 text-default">
+                              <div className="st-feature-box">
+                                <div className="st-feature-box-icon">
+                                  <div className="feature-box-image">
+                                    <img
+                                      decoding="async"
+                                      src="../wp-content/uploads/2015/11/icontact1.png"
+                                      alt=""
+                                    />
+                                  </div>
+                                </div>
+
+                                <h3>Address Delhi</h3>
+                                <div className="feature-box-content">
+                                  B-9 Ground Floor, Sardar Nagar, GT Road, New
+                                  Delhi, 110009
                                 </div>
                               </div>
                             </div>
+
                             <div
                               className="vc_empty_space"
                               style={{ height: 32 }}

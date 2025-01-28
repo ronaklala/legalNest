@@ -17,12 +17,7 @@ export const services = [
       "Expert guidance in managing your organization effectively. We help streamline processes and foster growth through innovative strategies.",
     image: "icon3.png",
   },
-  {
-    name: "Mentoring",
-    description:
-      "Empowering leaders with the insights and support needed to succeed. Our mentoring services foster professional and personal development.",
-    image: "icon4.png",
-  },
+
   {
     name: "Strategizing",
     description:
@@ -47,12 +42,7 @@ export const services = [
       "Comprehensive HR solutions to attract, retain, and manage talent effectively. We support all aspects of human resources, from recruitment to employee engagement.",
     image: "icon21.png",
   },
-  {
-    name: "Operations",
-    description:
-      "Optimizing your business operations for maximum efficiency and productivity. We identify bottlenecks and implement solutions that deliver results.",
-    image: "icon22.png",
-  },
+
   {
     name: "Sustainability",
     description:

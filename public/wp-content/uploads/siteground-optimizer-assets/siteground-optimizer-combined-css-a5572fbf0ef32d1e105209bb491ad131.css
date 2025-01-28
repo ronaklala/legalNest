@@ -6060,9 +6060,7 @@ hr {
   height: 1px;
   margin-bottom: 1.5em;
 }
-p {
-  margin: 0 0 1.5em;
-}
+
 p:last-child {
   margin-bottom: 0;
 }

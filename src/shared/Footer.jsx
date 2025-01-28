@@ -13,11 +13,11 @@ const Footer = () => {
             >
               <aside id="text-1" className="widget widget_text">
                 <div className="textwidget">
-                  <div style={{ paddingTop: 90 }}>
+                  <div style={{ paddingTop: 0 }}>
                     <img
                       className="lazyload"
-                      src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
-                      data-src="https://demo.themeamber.com/consultancy/wp-content/themes/consultancy/images/logo2.png"
+                      src="./web_logo_white_bg.png"
+                      data-src="./web_logo_white_bg.png"
                       alt=""
                     />
                     <noscript>

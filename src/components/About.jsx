@@ -58,7 +58,7 @@ const About = () => {
                             <div className="wpb_text_column wpb_content_element vc_custom_1451638423947">
                               <div className="wpb_wrapper">
                                 <p>
-                                  Mehta & Mehta stands as one of the leading
+                                  Legal Nest stands as one of the leading
                                   providers of corporate secretarial and
                                   legal services, boasting a legacy of more than
                                   three decades in the Secretarial & Compliance
@@ -135,8 +135,7 @@ const About = () => {
                                         </div>
                                         <h3>24 Hour Online support</h3>
                                         <div className="feature-box-content">
-                                          When an unknown printer took a galley
-                                          of type and scrambled
+                                          Round-the-Clock Expert Assistance
                                         </div>
                                       </div>
                                     </div>
@@ -163,8 +162,8 @@ const About = () => {
                                         </div>
                                         <h3>Dedicated Team</h3>
                                         <div className="feature-box-content">
-                                          Unknown printer took a galley of type
-                                          and scrambled it to make.
+                                          Your Trusted Partner in Professional
+                                          Services
                                         </div>
                                       </div>
                                     </div>
@@ -190,8 +189,8 @@ const About = () => {
                                         </div>
                                         <h3>Business Consulting</h3>
                                         <div className="feature-box-content">
-                                          Printer took a galley of type and
-                                          scrambled it to make.
+                                          Strategic Solutions for Business
+                                          Success
                                         </div>
                                       </div>
                                     </div>
@@ -217,8 +216,7 @@ const About = () => {
                                         </div>
                                         <h3>Lawyer Consulting</h3>
                                         <div className="feature-box-content">
-                                          When an unknown printer took a galley
-                                          of type and it to make.
+                                          Legal Expertise You Can Rely On
                                         </div>
                                       </div>
                                     </div>
@@ -231,36 +229,7 @@ const About = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="vc_row wpb_row vc_row-fluid vc_custom_1448509948209">
-                      <div className="wpb_column vc_column_container vc_col-sm-12">
-                        <div className="vc_column-inner">
-                          <div className="wpb_wrapper">
-                            <div className="contact-info tertiary-background contact-info-layout1">
-                              <div className="row">
-                                <div className="col-xs-12 col-sm-6 col-md-6 col-lg-6 contact-phone">
-                                  <i className="icon-screen-smartphone icons pull-left" />
-                                  <div className="contact-title pull-left">
-                                    Call now <br />
-                                  </div>
-                                  <div className="contact-detail pull-left">
-                                    : 9076040468
-                                  </div>
-                                </div>
-                                <div className="col-xs-12 col-sm-6 col-md-6 col-lg-6 contact-email">
-                                  <i className="icon-envelope-open icons pull-left" />
-                                  <div className="contact-title pull-left">
-                                    Mail now <br />
-                                  </div>
-                                  <div className="contact-detail pull-left">
-                                    : info@legalNest.com
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
+
                     <br />
                     <br />
                     <br />

@@ -16,33 +16,6 @@ const Header = () => {
       <div className="top-menu-social clearfix">
         <div className="container">
           <div className="row">
-            <div className="header-social col-xs-4 col-sm-5 col-md-6 col-lg-6">
-              {" "}
-              <a
-                className="header-social-icons"
-                title="Facebook"
-                href="/#"
-                target="_blank"
-              >
-                <i className="icon-social-facebook icons" />
-              </a>{" "}
-              <a
-                className="header-social-icons"
-                title="Twitter"
-                href="/#"
-                target="_blank"
-              >
-                <i className="icon-social-twitter icons" />
-              </a>{" "}
-              <a
-                className="header-social-icons"
-                title="Linkedin"
-                href="/#"
-                target="_blank"
-              >
-                <i className="icon-social-linkedin icons" />
-              </a>
-            </div>
             <div className="top-menu text-right pull-right col-xs-8 col-sm-7 col-md-6 col-lg-6">
               <ul id="top-menu" className="menu">
                 <li
@@ -55,7 +28,7 @@ const Header = () => {
                   id="menu-item-452"
                   className="icon-screen-smartphone icons menu-item menu-item-type-custom menu-item-object-custom menu-item-452"
                 >
-                  <a href="/#">: 9076040468</a>
+                  <a href="/#">: 9076040468 | 8860783250</a>
                 </li>
               </ul>
             </div>
@@ -68,10 +41,7 @@ const Header = () => {
             {" "}
             <a href="/" title="Consultancy" rel="home">
               {" "}
-              <img
-                src="wp-content/themes/consultancy/images/logo.png"
-                alt=""
-              />{" "}
+              <img src="./web_logo.png" alt="" />{" "}
             </a>
           </div>
           {/* .site-branding */}
