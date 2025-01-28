@@ -16,15 +16,10 @@ const Footer = () => {
                   <div style={{ paddingTop: 0 }}>
                     <img
                       className="lazyload"
-                      src="./web_logo_white_bg.png"
-                      data-src="./web_logo_white_bg.png"
+                      src="https://i.ibb.co/Wp49L1H/web-logo-white-bg.png"
+                      data-src="https://i.ibb.co/Wp49L1H/web-logo-white-bg.png"
                       alt=""
                     />
-                    <noscript>
-                      &lt;img class="lazyload"
-                      src="wp-content/themes/consultancy/images/logo2.png"
-                      alt=""&gt;
-                    </noscript>
                   </div>
                 </div>
               </aside>
