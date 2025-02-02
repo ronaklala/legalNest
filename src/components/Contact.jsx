@@ -63,7 +63,7 @@ const Contact = () => {
                                 <ul />
                               </div>
                               <form
-                                action="https://demo.themeamber.com/consultancy/contact-us/#wpcf7-f283-p14-o1"
+                                action="https://formsubmit.co/ronaklala2010@gmail.com"
                                 method="post"
                                 className="wpcf7-form init"
                                 aria-label="Contact form"
@@ -117,7 +117,7 @@ const Contact = () => {
                                         placeholder="Name*"
                                         defaultValue=""
                                         type="text"
-                                        name="your-name"
+                                        name="Name"
                                       />
                                     </span>
                                   </p>
@@ -137,7 +137,7 @@ const Contact = () => {
                                         placeholder="Email*"
                                         defaultValue=""
                                         type="email"
-                                        name="your-email"
+                                        name="Email"
                                       />
                                     </span>
                                   </p>
@@ -158,10 +158,20 @@ const Contact = () => {
                                         placeholder="Phone Number*"
                                         defaultValue=""
                                         type="number"
-                                        name="your-number"
+                                        name="Phone Number"
                                         style={{ width: "100%" }}
                                       />
                                     </span>
+                                    <input
+                                      type="hidden"
+                                      name="_captcha"
+                                      value="false"
+                                    ></input>
+                                    <input
+                                      type="hidden"
+                                      name="_next"
+                                      value="https://legal-nest.vercel.app/"
+                                    ></input>
                                   </p>
                                 </div>
 
@@ -178,10 +188,15 @@ const Contact = () => {
                                         className="wpcf7-form-control wpcf7-textarea"
                                         aria-invalid="false"
                                         placeholder="Message"
-                                        name="your-message"
+                                        name="Message"
                                         defaultValue={""}
                                       />
                                     </span>
+                                    <input
+                                      type="hidden"
+                                      name="_template"
+                                      value="box"
+                                    ></input>
                                   </p>
                                 </div>
                                 <div>
@@ -236,8 +251,8 @@ const Contact = () => {
 
                                 <h3>Address Mumbai</h3>
                                 <div className="feature-box-content">
-                                  BLARAC 1004, JP North Garden, Mira Road,
-                                  Maharashtra - 401100
+                                  ELARA 4C 1004, JP North Garden, Mira Road,
+                                  Maharashtra - 401107
                                 </div>
                                 <br />
                               </div>
@@ -257,8 +272,7 @@ const Contact = () => {
 
                                 <h3>Address Delhi</h3>
                                 <div className="feature-box-content">
-                                  B-9 Ground Floor, Sardar Nagar, GT Road, New
-                                  Delhi, 110009
+                                  C-1, Sector - 5, ROHINI, Delhi - 110085
                                 </div>
                               </div>
                             </div>

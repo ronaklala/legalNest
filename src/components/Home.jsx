@@ -110,37 +110,39 @@ const Home = () => {
                                         </rs-layer>
                                         {/*
                                          */}
-                                        <rs-layer
-                                          id="slider-3-slide-5-layer-3"
-                                          className="Sports-Button-Red rev-btn"
-                                          data-type="button"
-                                          data-color="rgba(255,255,255,1)"
-                                          data-xy="x:410px;y:393px;"
-                                          data-text="s:14;l:14;fw:700;"
-                                          data-rsp_bd="off"
-                                          data-padding="t:17;r:30;b:17;l:30;"
-                                          data-border="bos:solid;bow:2px,2px,2px,2px;"
-                                          data-frame_0="tp:600;"
-                                          data-frame_1="tp:600;e:power2.inOut;st:500;"
-                                          data-frame_999="o:0;tp:600;e:nothing;st:w;"
-                                          data-frame_hover="bgc:#000;boc:#000;bor:0px,0px,0px,0px;bos:solid;bow:2,2,2,2;oX:50;oY:50;sp:500;e:none;"
-                                          style={{
-                                            zIndex: 7,
-                                            backgroundColor:
-                                              "rgba(254,87,34,1)",
-                                            fontFamily: '"Karla"',
-                                            outline: "none",
-                                            boxShadow: "none",
-                                            boxSizing: "border-box",
-                                            MozBoxSizing: "border-box",
-                                            WebkitBoxSizing: "border-box",
-                                            letterSpacing: 2,
-                                            textAlign: "left",
-                                            type: "button",
-                                          }}
-                                        >
-                                          CONTACT US &gt;{" "}
-                                        </rs-layer>
+                                        <a href="/Contact">
+                                          <rs-layer
+                                            id="slider-3-slide-5-layer-3"
+                                            className="Sports-Button-Red rev-btn"
+                                            data-type="button"
+                                            data-color="rgba(255,255,255,1)"
+                                            data-xy="x:410px;y:393px;"
+                                            data-text="s:14;l:14;fw:700;"
+                                            data-rsp_bd="off"
+                                            data-padding="t:17;r:30;b:17;l:30;"
+                                            data-border="bos:solid;bow:2px,2px,2px,2px;"
+                                            data-frame_0="tp:600;"
+                                            data-frame_1="tp:600;e:power2.inOut;st:500;"
+                                            data-frame_999="o:0;tp:600;e:nothing;st:w;"
+                                            data-frame_hover="bgc:#000;boc:#000;bor:0px,0px,0px,0px;bos:solid;bow:2,2,2,2;oX:50;oY:50;sp:500;e:none;"
+                                            style={{
+                                              zIndex: 7,
+                                              backgroundColor:
+                                                "rgba(254,87,34,1)",
+                                              fontFamily: '"Karla"',
+                                              outline: "none",
+                                              boxShadow: "none",
+                                              boxSizing: "border-box",
+                                              MozBoxSizing: "border-box",
+                                              WebkitBoxSizing: "border-box",
+                                              letterSpacing: 2,
+                                              textAlign: "left",
+                                              type: "button",
+                                            }}
+                                          >
+                                            CONTACT US &gt;{" "}
+                                          </rs-layer>
+                                        </a>
                                         {/*
                                          */}
                                       </rs-slide>
@@ -663,6 +665,7 @@ const Home = () => {
                                           <i className="fa fa-quote-left tertiary-border secondary-color" />
                                           <div className="st-client-desctiption">
                                             <ul>
+                                              <li>Compliance BSFI</li>
                                               <li>
                                                 Compliance and Regulatory
                                                 Advisory

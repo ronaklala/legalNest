@@ -6940,7 +6940,7 @@ body .zeus.tparrows.tp-leftarrow:before {
     line-height: 103px;
   }
   .site-branding > a img {
-    max-height: 50px;
+    max-height: 65px;
   }
 }
 @media screen and (max-width: 991px) {
@@ -6948,7 +6948,7 @@ body .zeus.tparrows.tp-leftarrow:before {
     line-height: 80px;
   }
   .site-header .site-branding > a img {
-    max-height: 46px;
+    max-height: 60px;
   }
   .site-header .form-search {
     top: 80px !important;

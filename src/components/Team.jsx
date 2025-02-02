@@ -174,7 +174,7 @@ const Team = () => {
                                         </div>
                                         <div className="st-team-meta">
                                           <h3 className="st-team-name">
-                                            Barkha Chettri
+                                            Barkha Chhetri
                                           </h3>
                                           <small className="st-team-position primary-color">
                                             Partner
@@ -190,15 +190,7 @@ const Team = () => {
                                             experience in Corporate Secretarial
                                             and Business Advisory services.
                                           </p>
-                                          <p>
-                                            She specializes in managing complex
-                                            corporate, legal, and statutory
-                                            matters, including obtaining
-                                            critical regulatory approvals from
-                                            the National Company Law Tribunal
-                                            (NCLT), Regional Directors, and the
-                                            Central Government.
-                                          </p>
+
                                           <p>
                                             Her expertise encompasses
                                             secretarial compliance, corporate
@@ -223,13 +215,7 @@ const Team = () => {
                                             risks and driving operational
                                             efficiency.
                                           </p>
-                                          <p>
-                                            Beyond her technical expertise, she
-                                            is a leader and mentor, fostering
-                                            high-performing teams and aligning
-                                            organizational goals with regulatory
-                                            and governance strategies.
-                                          </p>
+
                                           <p>
                                             Her unwavering dedication, strategic
                                             foresight, and meticulous approach

@@ -1,5 +1,11 @@
 export const services = [
   {
+    name: "Compliance BSFI",
+    description:
+      "Ensuring Compliance, Mitigating Risks, Empowering BSFI Growth.",
+    image: "icon1.png",
+  },
+  {
     name: "Secretarial",
     description:
       "Efficient secretarial services to ensure smooth administrative operations. We manage documentation, compliance, and corporate governance seamlessly.",
