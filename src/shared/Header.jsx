@@ -28,7 +28,10 @@ const Header = () => {
                   id="menu-item-452"
                   className="icon-screen-smartphone icons menu-item menu-item-type-custom menu-item-object-custom menu-item-452"
                 >
-                  <a href="/#"><i class="fa-solid fa-phone"></i> &nbsp;: 9076040468 | 8860783250</a>
+                  <a href="/#">
+                    <i class="fa-solid fa-phone"></i> &nbsp;: +91 9076040468 |
+                    +91 8860783250
+                  </a>
                 </li>
               </ul>
             </div>
