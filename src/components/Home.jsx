@@ -183,7 +183,10 @@ const Home = () => {
                                 />
                               </div>
                               <div className="wpb_text_column wpb_content_element text-whitesmoke">
-                                <div className="wpb_wrapper">
+                                <div
+                                  className="wpb_wrapper"
+                                  style={{ textAlign: "justify" }}
+                                >
                                   <p>
                                     At “LEGALNEST PROFESSIONAL ADVSIORY”, we are
                                     committed to empowering businesses with

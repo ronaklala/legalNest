@@ -89,27 +89,23 @@ const Team = () => {
                                           </p>
 
                                           <p>Mr. Jha’s achievements include:</p>
-                                          <ul>
-                                            <li>
-                                              Leading high-stakes regulatory
-                                              engagements, fostering trust, and
-                                              strengthening relationships with
-                                              regulatory authorities.
-                                            </li>
-                                            <li>
-                                              Driving compliance transformation
-                                              initiatives, resulting in improved
-                                              risk mitigation and enhanced
-                                              organizational resilience.
-                                            </li>
-                                            <li>
-                                              Managing end-to-end legal
-                                              operations, including contract
-                                              management, intellectual property,
-                                              corporate litigation, and advisory
-                                              services.
-                                            </li>
-                                          </ul>
+
+                                          <p>
+                                            {" "}
+                                            Leading high-stakes regulatory
+                                            engagements, fostering trust, and
+                                            strengthening relationships with
+                                            regulatory authorities. Driving
+                                            compliance transformation
+                                            initiatives, resulting in improved
+                                            risk mitigation and enhanced
+                                            organizational resilience. Managing
+                                            end-to-end legal operations,
+                                            including contract management,
+                                            intellectual property, corporate
+                                            litigation, and advisory services.
+                                          </p>
+
                                           <p>
                                             Beyond his technical acumen, his
                                             forward-thinking approach enables
