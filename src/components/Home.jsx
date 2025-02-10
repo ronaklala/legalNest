@@ -668,7 +668,7 @@ const Home = () => {
                                           <i className="fa fa-quote-left tertiary-border secondary-color" />
                                           <div className="st-client-desctiption">
                                             <ul>
-                                              <li>Compliance BSFI</li>
+                                              <li>Compliance BFSI</li>
                                               <li>
                                                 Compliance and Regulatory
                                                 Advisory

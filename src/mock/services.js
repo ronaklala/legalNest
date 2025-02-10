@@ -1,6 +1,6 @@
 export const services = [
   {
-    name: "Compliance BSFI",
+    name: "Compliance BFSI",
     description:
       "Ensuring Compliance, Mitigating Risks, Empowering BSFI Growth.",
     image: "icon1.png",
