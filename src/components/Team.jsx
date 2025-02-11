@@ -65,7 +65,7 @@ const Team = () => {
                                             <a href="/#">Mantra Jha</a>
                                           </h3>
                                           <small className="st-team-position primary-color">
-                                            Founder and CEO
+                                            Founder & Managing Partner
                                           </small>
                                         </div>
                                         <div className="st-team-desctiption">
@@ -173,7 +173,7 @@ const Team = () => {
                                             Barkha Chhetri
                                           </h3>
                                           <small className="st-team-position primary-color">
-                                            Partner
+                                            Designated Partner
                                           </small>
                                         </div>
                                         <div className="st-team-desctiption">

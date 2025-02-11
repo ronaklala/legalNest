@@ -53,7 +53,9 @@ const Services = () => {
                     <div className="vc_row wpb_row vc_row-fluid vc_custom_1448582553412">
                       {services.map((s, i) => (
                         <>
-                          {i !== 1 ? (
+                          {s.name === "" ? (
+                            <></>
+                          ) : (
                             <>
                               <div
                                 className="wpb_column vc_column_container vc_col-sm-6"
@@ -93,8 +95,6 @@ const Services = () => {
                                 </div>
                               </div>
                             </>
-                          ) : (
-                            <> </>
                           )}
                         </>
                       ))}
