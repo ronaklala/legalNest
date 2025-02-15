@@ -63,7 +63,7 @@ const Contact = () => {
                                 <ul />
                               </div>
                               <form
-                                action="https://formsubmit.co/ronaklala2010@gmail.com"
+                                action="https://formsubmit.co/info@legalnest.co"
                                 method="post"
                                 className="wpcf7-form init"
                                 aria-label="Contact form"
