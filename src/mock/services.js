@@ -29,18 +29,7 @@ export const services = [
       "Specialized support in legal disputes, investigations, and forensic analysis.",
     image: "icon4.png",
   },
-  {
-    name: "Strategizing",
-    description:
-      "Developing tailored strategies and actionable plans to drive business success.",
-    image: "icon5.png",
-  },
-  {
-    name: "Finance",
-    description:
-      "Comprehensive financial management, from budgeting to investment planning.",
-    image: "icon6.png",
-  },
+
   {
     name: "Compliance",
     description:

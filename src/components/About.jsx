@@ -70,7 +70,7 @@ const About = () => {
                                   one smart solution at a time. Our commitment
                                   to staying sharp, dedicated, and dynamic
                                   ensures that we don’t just keep up - we stay
-                                  ahead
+                                  ahead.
                                 </p>
 
                                 <p>

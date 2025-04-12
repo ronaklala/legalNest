@@ -70,45 +70,37 @@ const Team = () => {
                                         </div>
                                         <div className="st-team-desctiption">
                                           <p>
-                                            Mr. Jha is an accomplished
-                                            professional in the Compliance and
-                                            Legal domains with over 13 years of
-                                            experience in the Banking, Financial
-                                            Services, and Insurance (BFSI)
-                                            sector. A Fellow Company Secretary
-                                            of the Insurance Institute of India,
+                                            Mr. Jha is a seasoned Compliance,
+                                            Legal and Secretarial professional
+                                            with over 14 years of experience in
+                                            the BFSI and Insurance sector. A
+                                            Fellow Member of the ICSI &
+                                            Insurance Institute of India (III)
                                             and a Law graduate, he brings strong
                                             academic credentials and deep
-                                            industry expertise.
+                                            industry insight.
                                           </p>
 
                                           <p>
-                                            His career spans General Insurance,
-                                            Health Insurance, and Insurance
-                                            Intermediaries, where he has led
-                                            regulatory engagements, driven
-                                            compliance transformation, and
-                                            managed legal operations including
-                                            contracts, intellectual property,
-                                            litigation, and advisory services.
-                                            Known for his forward-thinking
-                                            approach, Mr. Jha aligns compliance
-                                            frameworks with business goals,
-                                            helping organizations stay resilient
-                                            and future-ready
+                                            His expertise spans General and
+                                            Health Insurance, as well as
+                                            Insurance Intermediaries, with a
+                                            proven track record in regulatory
+                                            engagement, compliance
+                                            transformation, and legal
+                                            operations. Mr. Jha is known for
+                                            aligning compliance with business
+                                            strategy, enabling organizations to
+                                            stay resilient and future-ready.
                                           </p>
 
                                           <p>
                                             {" "}
-                                            At Legal Nest, Mr. Jha brings his
-                                            leadership, vision, and deep
-                                            industry insight to build a culture
-                                            of excellence. His commitment to
-                                            innovation and strong regulatory
-                                            foundations drives the firm’s
-                                            mission to deliver agile, tailored
-                                            solutions in a rapidly evolving
-                                            legal and compliance landscape.
+                                            At LegalNest, he leads with vision
+                                            and integrity, driving the firm’s
+                                            mission to provide agile,
+                                            innovative, and customized legal and
+                                            compliance solutions.
                                           </p>
                                         </div>
                                       </div>
@@ -134,43 +126,33 @@ const Team = () => {
                                           <h3 className="st-team-name">
                                             Barkha Chhetri
                                           </h3>
-                                          <small className="st-team-position primary-color">
-                                            Designated Partner
-                                          </small>
                                         </div>
                                         <div className="st-team-desctiption">
                                           <p>
-                                            Ms. Barkha Chhetri is an
+                                            Ms. Barkha Chhetri is an
                                             accomplished professional with
-                                            around 10 years of experience in
+                                            nearly a decade of experience in
                                             Corporate Secretarial and Business
                                             Advisory services. An Associate
                                             Member of the Institute of Company
                                             Secretaries of India (ICSI), she
-                                            specializes in secretarial
+                                            brings deep expertise in secretarial
                                             compliance, corporate governance,
-                                            and strategic advisory, helping
-                                            organizations uphold the highest
-                                            standards of regulatory excellence
+                                            and strategic advisory.
                                           </p>
 
                                           <p>
-                                            Her expertise extends to fundraising
-                                            through equity and debt instruments,
-                                            where she has successfully
-                                            structured capital-raising
-                                            initiatives aligned with financial
-                                            and statutory requirements. Known
-                                            for her strategic foresight and
-                                            problem-solving skills, Ms. Chhetri
-                                            navigates complex legal frameworks
-                                            with precision, driving operational
-                                            efficiency and mitigating compliance
-                                            risks. Her commitment to detail,
-                                            innovation, and sustainable growth
-                                            makes her a valuable asset to
-                                            organizations aiming for long-term
-                                            success.
+                                            She has successfully led
+                                            capital-raising initiatives through
+                                            equity and debt instruments,
+                                            aligning financial strategies with
+                                            regulatory requirements. Known for
+                                            her strategic insight and
+                                            problem-solving acumen, Ms. Chhetri
+                                            helps organizations enhance
+                                            operational efficiency, manage
+                                            compliance risks, and drive
+                                            sustainable growth.
                                           </p>
                                         </div>
                                       </div>

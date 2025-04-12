@@ -271,16 +271,15 @@ const Contact = () => {
                                   </div>
                                 </div>
 
-                                <h3>Address Hyderabad</h3>
+                                <h3>Address Delhi</h3>
                                 <div className="feature-box-content">
-                                  406, Lake Melody, Raj Bhavan Road, Somajiguda,
-                                  Hyderabad – 500082
+                                  A-98, Rear Basement, New Friends Colony, New
+                                  Delhi - 110025
                                 </div>
                               </div>
                             </div>
 
                             <br />
-
                             <div className="st-feature-box-wraper st-feature-box-layout1 text-default">
                               <div className="st-feature-box">
                                 <div className="st-feature-box-icon">
@@ -293,10 +292,10 @@ const Contact = () => {
                                   </div>
                                 </div>
 
-                                <h3>Address Delhi</h3>
+                                <h3>Address Hyderabad</h3>
                                 <div className="feature-box-content">
-                                  A-98, Rear Basement, New Friends Colony, New
-                                  Delhi - 110025
+                                  406, Lake Melody, Raj Bhavan Road, Somajiguda,
+                                  Hyderabad – 500082
                                 </div>
                               </div>
                             </div>
