@@ -59,4 +59,29 @@ export const services = [
       "Implementing eco-friendly strategies to minimize impact and promote responsibility.",
     image: "icon23.png",
   },
+  {
+    name: "M&A Transactions & Agreements",
+    description:
+      "Deal Structuring, Due Dilligence and drafting NDA’s, Auditor Engagement Letters.",
+    image: "icon7.png",
+  },
+
+  {
+    name: "Accounting and Finance ",
+    description: "Managing financial records, reporting, and compliance.",
+    image: "icon6.png",
+  },
+  {
+    name: "Data Protection and Cyber Security Compliance ",
+    description:
+      "Safeguarding data, ensuring privacy, and regulatory readiness.",
+    image: "icon3.png",
+  },
+
+  {
+    name: "Startup Support",
+    description:
+      " Business structuring & fundraising, legalities, Compliance with startup-specific regulations..",
+    image: "icon21.png",
+  },
 ];

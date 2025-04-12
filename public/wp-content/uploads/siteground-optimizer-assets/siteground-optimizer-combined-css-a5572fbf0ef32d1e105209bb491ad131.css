@@ -8007,6 +8007,7 @@ body .vc_color-danger.vc_message_box {
 .st-team-layout2 .st-team-desctiption {
   padding-top: 20px;
   text-align: left;
+  text-align: justify;
 }
 .st-team-layout2 a {
   color: #848d94;
@@ -8908,7 +8909,7 @@ body .vc_tta.vc_general .vc_tta-panel-body {
 .page-title-wrap {
   background-repeat: repeat;
   background-position: 50% 0;
-  background-image: url(https://demo.themeamber.com/consultancy/wp-content/themes/consultancy/images/bg_page_title.jpg);
+  background-image: url(https://images.unsplash.com/photo-1479142506502-19b3a3b7ff33?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
   padding: 120px 0;
   background-size: cover;
   position: relative;

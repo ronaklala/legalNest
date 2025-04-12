@@ -58,15 +58,19 @@ const About = () => {
                             <div className="wpb_text_column wpb_content_element vc_custom_1451638423947">
                               <div className="wpb_wrapper">
                                 <p>
-                                  At “LEGALNEST PROFESSIONAL ADVSIORY”, we are
-                                  committed to empowering businesses with expert
-                                  legal and compliance solutions tailored for
-                                  today’s dynamic regulatory landscape. With a
-                                  team of experienced attorneys, compliance
-                                  specialists, and industry professionals, we
-                                  partner with our clients to navigate complex
-                                  legal challenges and ensure their operations
-                                  remain compliant and future-ready.{" "}
+                                  At Legal Nest, we think differently. We’re a
+                                  team where fresh talent meets real-world
+                                  experience, creating a space that’s agile,
+                                  ambitious, and ready to grow with you. From
+                                  regulatory compliance to legal advisory, we
+                                  approach every challenge with energy,
+                                  precision, and a go-getter mindset. Driven by
+                                  passion, guided by expertise - we’re building
+                                  the future of legal and insurance compliance,
+                                  one smart solution at a time. Our commitment
+                                  to staying sharp, dedicated, and dynamic
+                                  ensures that we don’t just keep up - we stay
+                                  ahead
                                 </p>
 
                                 <p>
@@ -101,7 +105,7 @@ const About = () => {
                                     decoding="async"
                                     width={556}
                                     height={418}
-                                    src="../wp-content/uploads/2015/11/about1.png"
+                                    src="https://images.unsplash.com/photo-1521587760476-6c12a4b040da?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                                     className="vc_single_image-img attachment-full"
                                     alt=""
                                     title="about1"
@@ -123,7 +127,7 @@ const About = () => {
                                 className="st-heading-title"
                                 style={{ color: "" }}
                               >
-                                <span> Why choose us</span>
+                                <span>What Sets Us Apart</span>
                               </h2>
                               <hr
                                 className="heading-line"
@@ -271,8 +275,7 @@ const About = () => {
                                     className="cta-subheading"
                                     style={{ color: "#e2e2e2" }}
                                   >
-                                    We are providing wide range of Consulting
-                                    Services &amp; World wide happy Clients
+                                    We provide wide range of Consulting Services
                                   </div>
                                 </div>
                                 <div className="col-xs-12 col-sm-4 col-md-4 col-lg-4 call-to-action-button text-default">

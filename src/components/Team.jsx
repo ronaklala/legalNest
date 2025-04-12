@@ -62,7 +62,7 @@ const Team = () => {
                                         </div>
                                         <div className="st-team-meta">
                                           <h3 className="st-team-name">
-                                            <a href="/#">Mantra Jha</a>
+                                            <a href="/#">Mr. Manta Jha</a>
                                           </h3>
                                           <small className="st-team-position primary-color">
                                             Founder & Managing Partner
@@ -70,84 +70,46 @@ const Team = () => {
                                         </div>
                                         <div className="st-team-desctiption">
                                           <p>
-                                            Mr. Jha is a highly accomplished
+                                            Mr. Jha is an accomplished
                                             professional in the Compliance and
-                                            Legal domains with an extensive
-                                            track record of excellence in the
-                                            Banking, Financial Services, and
-                                            Insurance (BFSI) sector. He is a
-                                            Fellow Company Secretary, a Fellow
+                                            Legal domains with over 13 years of
+                                            experience in the Banking, Financial
+                                            Services, and Insurance (BFSI)
+                                            sector. A Fellow Company Secretary
                                             of the Insurance Institute of India,
-                                            and a Law graduate, combining robust
-                                            academic credentials with over 13
-                                            years of rich and diverse
-                                            experience. His career spans GI, HI,
-                                            Insurance Intermediaries in
-                                            Compliance, Secretarial & Corporate
-                                            Legal, positioning him as a thought
-                                            leader in his field.
+                                            and a Law graduate, he brings strong
+                                            academic credentials and deep
+                                            industry expertise.
                                           </p>
 
-                                          <p>Mr. Jha’s achievements include:</p>
+                                          <p>
+                                            His career spans General Insurance,
+                                            Health Insurance, and Insurance
+                                            Intermediaries, where he has led
+                                            regulatory engagements, driven
+                                            compliance transformation, and
+                                            managed legal operations including
+                                            contracts, intellectual property,
+                                            litigation, and advisory services.
+                                            Known for his forward-thinking
+                                            approach, Mr. Jha aligns compliance
+                                            frameworks with business goals,
+                                            helping organizations stay resilient
+                                            and future-ready
+                                          </p>
 
                                           <p>
                                             {" "}
-                                            Leading high-stakes regulatory
-                                            engagements, fostering trust, and
-                                            strengthening relationships with
-                                            regulatory authorities. Driving
-                                            compliance transformation
-                                            initiatives, resulting in improved
-                                            risk mitigation and enhanced
-                                            organizational resilience. Managing
-                                            end-to-end legal operations,
-                                            including contract management,
-                                            intellectual property, corporate
-                                            litigation, and advisory services.
+                                            At Legal Nest, Mr. Jha brings his
+                                            leadership, vision, and deep
+                                            industry insight to build a culture
+                                            of excellence. His commitment to
+                                            innovation and strong regulatory
+                                            foundations drives the firm’s
+                                            mission to deliver agile, tailored
+                                            solutions in a rapidly evolving
+                                            legal and compliance landscape.
                                           </p>
-
-                                          <p>
-                                            Beyond his technical acumen, his
-                                            forward-thinking approach enables
-                                            him to anticipate industry trends,
-                                            proactively address challenges, and
-                                            align compliance frameworks with
-                                            business objectives.
-                                          </p>
-                                        </div>
-                                        <div className="st-team-social">
-                                          <a
-                                            className="team-social"
-                                            title="Facebook"
-                                            href="/#"
-                                            target="_blank"
-                                          >
-                                            <i className="fa fa-facebook" />
-                                          </a>
-                                          <a
-                                            className="team-social"
-                                            title="Twitter"
-                                            href="/#"
-                                            target="_blank"
-                                          >
-                                            <i className="fa fa-twitter" />
-                                          </a>
-                                          <a
-                                            className="team-social"
-                                            title="Pinterest"
-                                            href="/#"
-                                            target="_blank"
-                                          >
-                                            <i className="fa fa-pinterest-p" />
-                                          </a>
-                                          <a
-                                            className="team-social"
-                                            title="Linkedin"
-                                            href="/#"
-                                            target="_blank"
-                                          >
-                                            <i className="fa fa-linkedin" />
-                                          </a>
                                         </div>
                                       </div>
                                     </div>
@@ -178,82 +140,38 @@ const Team = () => {
                                         </div>
                                         <div className="st-team-desctiption">
                                           <p>
-                                            Ms. Barkha Chhetri, an Associate
+                                            Ms. Barkha Chhetri is an
+                                            accomplished professional with
+                                            around 10 years of experience in
+                                            Corporate Secretarial and Business
+                                            Advisory services. An Associate
                                             Member of the Institute of Company
-                                            Secretaries of India (ICSI), is a
-                                            distinguished professional with
-                                            around 10 years of comprehensive
-                                            experience in Corporate Secretarial
-                                            and Business Advisory services.
+                                            Secretaries of India (ICSI), she
+                                            specializes in secretarial
+                                            compliance, corporate governance,
+                                            and strategic advisory, helping
+                                            organizations uphold the highest
+                                            standards of regulatory excellence
                                           </p>
 
                                           <p>
-                                            Her expertise encompasses
-                                            secretarial compliance, corporate
-                                            governance, and strategic advisory,
-                                            ensuring organizations uphold the
-                                            highest standards of ethical and
-                                            regulatory practices.
+                                            Her expertise extends to fundraising
+                                            through equity and debt instruments,
+                                            where she has successfully
+                                            structured capital-raising
+                                            initiatives aligned with financial
+                                            and statutory requirements. Known
+                                            for her strategic foresight and
+                                            problem-solving skills, Ms. Chhetri
+                                            navigates complex legal frameworks
+                                            with precision, driving operational
+                                            efficiency and mitigating compliance
+                                            risks. Her commitment to detail,
+                                            innovation, and sustainable growth
+                                            makes her a valuable asset to
+                                            organizations aiming for long-term
+                                            success.
                                           </p>
-                                          <p>
-                                            Skilled in fundraising through
-                                            equity and debt instruments, Ms.
-                                            Chhetri has successfully structured
-                                            capital-raising initiatives,
-                                            aligning them with financial and
-                                            statutory requirements.
-                                          </p>
-
-                                          <p>
-                                            A seasoned problem-solver, she
-                                            adeptly navigates intricate legal
-                                            frameworks, mitigating compliance
-                                            risks and driving operational
-                                            efficiency.
-                                          </p>
-
-                                          <p>
-                                            Her unwavering dedication, strategic
-                                            foresight, and meticulous approach
-                                            make her a trusted advisor and a key
-                                            contributor to the success of
-                                            organizations seeking sustainable
-                                            growth and compliance excellence.
-                                          </p>
-                                        </div>
-                                        <div className="st-team-social">
-                                          <a
-                                            className="team-social"
-                                            title="Facebook"
-                                            href="/#"
-                                            target="_blank"
-                                          >
-                                            <i className="fa fa-facebook" />
-                                          </a>
-                                          <a
-                                            className="team-social"
-                                            title="Twitter"
-                                            href="/#"
-                                            target="_blank"
-                                          >
-                                            <i className="fa fa-twitter" />
-                                          </a>
-                                          <a
-                                            className="team-social"
-                                            title="Pinterest"
-                                            href="/#"
-                                            target="_blank"
-                                          >
-                                            <i className="fa fa-pinterest-p" />
-                                          </a>
-                                          <a
-                                            className="team-social"
-                                            title="Google"
-                                            href="/#"
-                                            target="_blank"
-                                          >
-                                            <i className="fa fa-google" />
-                                          </a>
                                         </div>
                                       </div>
                                     </div>
@@ -267,6 +185,199 @@ const Team = () => {
                     </div>
                     <br />
                     <br />
+                    <div className="vc_row wpb_row vc_row-fluid">
+                      <div className="wpb_column vc_column_container vc_col-sm-12">
+                        <div className="vc_column-inner">
+                          <div className="wpb_wrapper">
+                            <div className="vc_row wpb_row vc_inner vc_row-fluid">
+                              <div className="wpb_column vc_column_container vc_col-sm-6">
+                                <div className="vc_column-inner">
+                                  <div className="wpb_wrapper">
+                                    <div className="st-team-wraper st-team-layout2 450">
+                                      <div className="st-team-inner clearfix">
+                                        <div className="st-team-name-image clearfix">
+                                          <div className="st-team-image">
+                                            <img
+                                              decoding="async"
+                                              alt=""
+                                              src="https://i.ibb.co/vC3rgp58/image.png"
+                                            />
+                                          </div>
+                                        </div>
+                                        <div className="st-team-meta">
+                                          <h3 className="st-team-name">
+                                            <a href="/#">
+                                              Mr. Mohan B. Khandekar
+                                            </a>
+                                          </h3>
+                                          <small className="st-team-position primary-color">
+                                            Industry Mentor
+                                          </small>
+                                        </div>
+                                        <div className="st-team-desctiption">
+                                          <p>
+                                            Mr. Mohan Khandekar is a highly
+                                            experienced professional with over
+                                            37 years in Legal, Secretarial, and
+                                            Compliance domains. A qualified
+                                            Company Secretary, Master of
+                                            Commerce, and Law Graduate from
+                                            Bombay University, he brings deep
+                                            expertise in corporate governance,
+                                            regulatory compliance, and risk
+                                            management.
+                                          </p>
+
+                                          <p>
+                                            He served as the Company Secretary
+                                            and Chief Compliance Officer at
+                                            Reliance General Insurance Company
+                                            Limited for 17 years, following two
+                                            decades of leadership roles in other
+                                            esteemed organizations. With an
+                                            in-depth understanding of IRDAI
+                                            regulations, SEBI guidelines, and
+                                            the Companies Act, Mr. Khandekar has
+                                            been a trusted advisor to Boards and
+                                            senior management, driving
+                                            governance, regulatory reporting,
+                                            policy formulation, and stakeholder
+                                            engagement with precision and
+                                            integrity.
+                                          </p>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              <div className="wpb_column vc_column_container vc_col-sm-6">
+                                <div className="vc_column-inner">
+                                  <div className="wpb_wrapper">
+                                    <div className="st-team-wraper st-team-layout2 453">
+                                      <div className="st-team-inner clearfix">
+                                        <div className="st-team-name-image clearfix">
+                                          <div className="st-team-image">
+                                            <img
+                                              decoding="async"
+                                              alt=""
+                                              src="https://i.ibb.co/fVYDRmDB/image.png"
+                                            />
+                                          </div>
+                                        </div>
+                                        <div className="st-team-meta">
+                                          <h3 className="st-team-name">
+                                            Mr. Rahul Raman
+                                          </h3>
+                                          <small className="st-team-position primary-color">
+                                            Consulting Partner
+                                          </small>
+                                        </div>
+                                        <div className="st-team-desctiption">
+                                          <p>
+                                            Mr. Rahul Raman is a qualified
+                                            Company Secretary with a
+                                            Postgraduate Diploma in Business
+                                            Administration, specializing in
+                                            Finance. With over 15 years of
+                                            diverse experience across the
+                                            services and manufacturing sectors,
+                                            he brings a strong blend of legal,
+                                            business, and operational expertise.
+                                          </p>
+
+                                          <p>
+                                            His core strengths include
+                                            negotiations, business development,
+                                            marketing, business planning, legal
+                                            drafting, regulatory compliance, and
+                                            operations management. Mr. Raman’s
+                                            versatile skill set and strategic
+                                            approach make him a valuable
+                                            contributor to driving business
+                                            growth and ensuring seamless
+                                            organizational efficiency.
+                                          </p>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <br />
+                    <br />
+                    <div className="vc_row wpb_row vc_row-fluid">
+                      <div className="wpb_column vc_column_container vc_col-sm-12">
+                        <div className="vc_column-inner">
+                          <div className="wpb_wrapper">
+                            <div className="vc_row wpb_row vc_inner vc_row-fluid">
+                              <div className="wpb_column vc_column_container vc_col-sm-6">
+                                <div className="vc_column-inner">
+                                  <div className="wpb_wrapper">
+                                    <div className="st-team-wraper st-team-layout2 450">
+                                      <div className="st-team-inner clearfix">
+                                        <div className="st-team-name-image clearfix">
+                                          <div className="st-team-image">
+                                            <img
+                                              decoding="async"
+                                              alt=""
+                                              src="https://i.ibb.co/7L7qqmt/image.png"
+                                            />
+                                          </div>
+                                        </div>
+                                        <div className="st-team-meta">
+                                          <h3 className="st-team-name">
+                                            <a href="/#">Ms. Hanu Grover</a>
+                                          </h3>
+                                          <small className="st-team-position primary-color">
+                                            Associate
+                                          </small>
+                                        </div>
+                                        <div className="st-team-desctiption">
+                                          <p>
+                                            Ms. Hanu Grover is a lawyer
+                                            specializing in Alternate Dispute
+                                            Resolution, legal research, and
+                                            drafting. A law graduate from the
+                                            University of Mumbai and a
+                                            postgraduate from Toronto, Canada,
+                                            she has completed advanced programs
+                                            in Dispute Resolution and Paralegal
+                                            Studies with academic distinction.
+                                          </p>
+                                          <p>
+                                            She has further honed her expertise
+                                            at York University’s Osgoode Hall
+                                            Law School, one of the world’s
+                                            leading law schools. With hands-on
+                                            experience in mediation and
+                                            arbitration, as well as legal
+                                            research and drafting at reputed
+                                            organizations in India and Canada,
+                                            Ms. Grover brings strong drafting
+                                            skills, effective communication, and
+                                            international exposure to dispute
+                                            resolution. Her global perspective
+                                            and practical approach enhance the
+                                            firm's capabilities in delivering
+                                            strategic legal solutions.
+                                          </p>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
                     <div className="vc_row wpb_row vc_row-fluid vc_custom_1448546764167">
                       <div className="wpb_column vc_column_container vc_col-sm-12">
                         <div className="vc_column-inner">
@@ -289,8 +400,6 @@ const Team = () => {
                         </div>
                       </div>
                     </div>
-
-                    <div className="vc_row-full-width vc_clearfix" />
                   </div>
                 </div>
                 {/* .entry-content */}

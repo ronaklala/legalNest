@@ -251,8 +251,9 @@ const Contact = () => {
 
                                 <h3>Address Mumbai</h3>
                                 <div className="feature-box-content">
-                                  ELARA 4C 1004, JP North Garden, Mira Road,
-                                  Maharashtra - 401107
+                                  NESCO IT Park, Building 4, North Wing, Western
+                                  Express Hwy, Goregaon, Mumbai, Maharashtra,
+                                  400063
                                 </div>
                                 <br />
                               </div>
@@ -270,9 +271,30 @@ const Contact = () => {
                                   </div>
                                 </div>
 
+                                <h3>Address Hyderabad</h3>
+                                <div className="feature-box-content">
+                                  406, Lake Melody, Raj Bhavan Road, Somajiguda,
+                                  Hyderabad – 500082
+                                </div>
+                              </div>
+                            </div>
+
+                            <div className="st-feature-box-wraper st-feature-box-layout1 text-default">
+                              <div className="st-feature-box">
+                                <div className="st-feature-box-icon">
+                                  <div className="feature-box-image">
+                                    <img
+                                      decoding="async"
+                                      src="../wp-content/uploads/2015/11/icontact1.png"
+                                      alt=""
+                                    />
+                                  </div>
+                                </div>
+
                                 <h3>Address Delhi</h3>
                                 <div className="feature-box-content">
-                                  C-1, Sector - 5, ROHINI, Delhi - 110085
+                                  A-98, Rear Basement, New Friends Colony, New
+                                  Delhi - 110025
                                 </div>
                               </div>
                             </div>

@@ -1,5 +1,4 @@
 import React from "react";
-import { services } from "../mock/services";
 
 const Home = () => {
   return (
@@ -57,7 +56,7 @@ const Home = () => {
                                           alt=""
                                           title="Home"
                                           className="rev-slidebg tp-rs-img rs-lazyload"
-                                          data-lazyload="//demo.themeamber.com/consultancy/wp-content/uploads/2015/12/slider1.jpg"
+                                          data-lazyload="https://images.unsplash.com/photo-1479142506502-19b3a3b7ff33?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                                           data-no-retina=""
                                         />{" "}
                                         {/*
@@ -155,70 +154,13 @@ const Home = () => {
                           </div>
                         </div>
                       </div>
+
                       <div
                         data-vc-full-width="true"
                         data-vc-full-width-init="false"
                         className="vc_row wpb_row vc_row-fluid vc_custom_1451621476587 vc_row-has-fill"
                       >
-                        <div className="wpb_column vc_column_container vc_col-sm-4">
-                          <div className="vc_column-inner vc_custom_1451624060187">
-                            <div className="wpb_wrapper">
-                              <div
-                                className="st-custom-heading-wraper st-custom-heading-layout1 text-default "
-                                style={{ marginBottom: 32 }}
-                              >
-                                <h2
-                                  className="st-heading-title"
-                                  style={{ color: "#ffffff" }}
-                                >
-                                  {" "}
-                                  <span className="heading-text">
-                                    {" "}
-                                    About Us
-                                  </span>
-                                </h2>
-                                <hr
-                                  className="heading-line"
-                                  style={{ background: "#ffffff" }}
-                                />
-                              </div>
-                              <div className="wpb_text_column wpb_content_element text-whitesmoke">
-                                <div
-                                  className="wpb_wrapper"
-                                  style={{ textAlign: "justify" }}
-                                >
-                                  <p>
-                                    At “LEGALNEST PROFESSIONAL ADVSIORY”, we are
-                                    committed to empowering businesses with
-                                    expert legal and compliance solutions
-                                    tailored for today’s dynamic regulatory
-                                    landscape. With a team of experienced
-                                    attorneys, compliance specialists, and
-                                    industry professionals, we partner with our
-                                    clients to navigate complex legal challenges
-                                    and ensure their operations remain compliant
-                                    and future-ready.{" "}
-                                  </p>
-
-                                  <p>
-                                    Our firm offers comprehensive services in
-                                    corporate law, regulatory compliance, risk
-                                    management, and dispute resolution,
-                                    providing practical, proactive, and
-                                    innovative solutions.{" "}
-                                  </p>
-
-                                  <p>
-                                    We believe in fostering strong client
-                                    relationships built on trust, transparency,
-                                    and collaboration.
-                                  </p>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                        <div className="background-box wpb_column vc_column_container vc_col-sm-8 vc_col-has-fill">
+                        <div className="background-box wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill">
                           <div className="vc_column-inner vc_custom_1451624045846">
                             <div className="wpb_wrapper">
                               <div
@@ -232,7 +174,7 @@ const Home = () => {
                                   {" "}
                                   <span className="heading-text">
                                     {" "}
-                                    Key Operational Domain of the Firm
+                                    About Us
                                   </span>
                                 </h2>
                                 <hr
@@ -241,38 +183,29 @@ const Home = () => {
                                 />
                               </div>
                               <div className="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1451347952570">
-                                {services.map((s, i) => (
-                                  <>
-                                    <div className="wpb_column vc_column_container vc_col-sm-6">
-                                      <div className="vc_column-inner">
-                                        <div className="wpb_wrapper">
-                                          <div className="st-feature-box-wraper st-feature-box-layout1 text-default ">
-                                            <div className="st-feature-box">
-                                              <div className="st-feature-box-icon">
-                                                <div className="feature-box-image">
-                                                  {" "}
-                                                  <img
-                                                    decoding="async"
-                                                    src={
-                                                      "wp-content/uploads/2015/11/" +
-                                                      s.image
-                                                    }
-                                                    alt=""
-                                                  />
-                                                </div>
-                                              </div>
-                                              <h3>{s.name}</h3>
-                                              <div className="feature-box-content">
-                                                {" "}
-                                                {s.description}
-                                              </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </>
-                                ))}
+                                <p>
+                                  At “LEGALNEST PROFESSIONAL ADVSIORY”, we are
+                                  committed to empowering businesses with expert
+                                  legal and compliance solutions tailored for
+                                  today’s dynamic regulatory landscape. With a
+                                  team of experienced attorneys, compliance
+                                  specialists, and industry professionals, we
+                                  partner with our clients to navigate complex
+                                  legal challenges and ensure their operations
+                                  remain compliant and future-ready.
+                                </p>
+                                <p>
+                                  Our firm offers comprehensive services in
+                                  corporate law, regulatory compliance, risk
+                                  management, and dispute resolution, providing
+                                  practical, proactive, and innovative
+                                  solutions.
+                                </p>
+                                <p>
+                                  We believe in fostering strong client
+                                  relationships built on trust, transparency,
+                                  and collaboration.
+                                </p>
                               </div>
                             </div>
                           </div>
@@ -280,7 +213,116 @@ const Home = () => {
                       </div>
                       <div className="vc_row-full-width vc_clearfix" />
 
+                      <div
+                        id="primary"
+                        className="content-area content-page col-xs-12 col-sm-12 col-md-12 col-lg-12"
+                      >
+                        <main id="main" className="site-main" role="main">
+                          <div
+                            id="post-324"
+                            className="post-324 page type-page status-publish hentry"
+                          >
+                            <div className="entry-content">
+                              <div className="wpb-content-wrapper">
+                                <div className="vc_row wpb_row vc_row-fluid vc_custom_1448960423081">
+                                  <div className="wpb_column vc_column_container vc_col-sm-12">
+                                    <div className="vc_column-inner">
+                                      <div className="wpb_wrapper">
+                                        <div
+                                          className="st-custom-heading-wraper st-custom-heading-layout1 text-default"
+                                          style={{ marginBottom: "" }}
+                                        >
+                                          <h2
+                                            className="st-heading-title"
+                                            style={{ color: "" }}
+                                          >
+                                            <span className="heading-text">
+                                              Key Operational Domain of the Firm
+                                            </span>
+                                          </h2>
+                                          <hr
+                                            className="heading-line"
+                                            style={{ background: "" }}
+                                          />
+                                        </div>
+                                        <div className="vc_row wpb_row vc_inner vc_row-fluid">
+                                          <div className="wpb_column vc_column_container vc_col-sm-12">
+                                            <div className="vc_column-inner">
+                                              <div className="wpb_wrapper">
+                                                <div className="st-client-wraper st-client-layout2">
+                                                  <div className="st-client-inner clearfix">
+                                                    <i className="fa fa-quote-left tertiary-border secondary-color" />
+                                                    <div className="st-client-desctiption">
+                                                      <ul>
+                                                        <li>Compliance BFSI</li>
+                                                        <li>
+                                                          Compliance and
+                                                          Regulatory Advisory
+                                                        </li>
+                                                        <li>
+                                                          Corporate Legal
+                                                          Solutions (Contract &
+                                                          Litigation)
+                                                        </li>
+                                                        <li>
+                                                          Company Secretarial
+                                                          Function
+                                                        </li>
+                                                        <li>
+                                                          Investment Banking
+                                                          Compliance
+                                                        </li>
+                                                        <li>
+                                                          Investigation and
+                                                          Forensics
+                                                        </li>
+                                                        <li>
+                                                          Accounts & Tax
+                                                          Consultants
+                                                        </li>
+                                                        <li>
+                                                          Due Diligence and
+                                                          Audit
+                                                        </li>
+                                                        <li>
+                                                          Intellectual Property
+                                                        </li>
+                                                        <li>
+                                                          Compliance Risk
+                                                          Assessment
+                                                        </li>
+                                                        <li>ESG Compliances</li>
+                                                      </ul>
+                                                    </div>
+                                                  </div>
+                                                </div>
+                                                <br />
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+
+                                <div className="vc_row-full-width vc_clearfix" />
+                              </div>
+                            </div>
+                            {/* .entry-content */}
+                            <div className="page-edit" />
+                            {/* .entry-footer */}
+                          </div>
+                          {/* #post-## */}
+                        </main>
+                        {/* #main */}
+                      </div>
+
                       <div className="vc_row-full-width vc_clearfix" />
+                      <br />
+                      <br />
+                      <br />
+                      <br />
                       {/* <div className="vc_row wpb_row vc_row-fluid vc_custom_1451637598418">
                         <div className="wpb_column vc_column_container vc_col-sm-12">
                           <div className="vc_column-inner">
@@ -566,7 +608,10 @@ const Home = () => {
                                       <div className="st-client-wraper st-client-layout2">
                                         <div className="st-client-inner clearfix">
                                           <i className="fa fa-quote-left tertiary-border secondary-color" />
-                                          <div className="st-client-desctiption">
+                                          <div
+                                            className="st-client-desctiption"
+                                            style={{ fontStyle: "initial" }}
+                                          >
                                             The firm has a niche practice for
                                             corporate houses and carries out
                                             assignments ranging from corporate
@@ -627,99 +672,6 @@ const Home = () => {
               {/* #main */}
             </div>
 
-            <div
-              id="primary"
-              className="content-area content-page col-xs-12 col-sm-12 col-md-12 col-lg-12"
-            >
-              <main id="main" className="site-main" role="main">
-                <div
-                  id="post-324"
-                  className="post-324 page type-page status-publish hentry"
-                >
-                  <div className="entry-content">
-                    <div className="wpb-content-wrapper">
-                      <div className="vc_row wpb_row vc_row-fluid vc_custom_1448960423081">
-                        <div className="wpb_column vc_column_container vc_col-sm-12">
-                          <div className="vc_column-inner">
-                            <div className="wpb_wrapper">
-                              <div
-                                className="st-custom-heading-wraper st-custom-heading-layout1 text-default"
-                                style={{ marginBottom: "" }}
-                              >
-                                <h2
-                                  className="st-heading-title"
-                                  style={{ color: "" }}
-                                >
-                                  <span className="heading-text">
-                                    Key Operational Domain of the Firm
-                                  </span>
-                                </h2>
-                                <hr
-                                  className="heading-line"
-                                  style={{ background: "" }}
-                                />
-                              </div>
-                              <div className="vc_row wpb_row vc_inner vc_row-fluid">
-                                <div className="wpb_column vc_column_container vc_col-sm-12">
-                                  <div className="vc_column-inner">
-                                    <div className="wpb_wrapper">
-                                      <div className="st-client-wraper st-client-layout2">
-                                        <div className="st-client-inner clearfix">
-                                          <i className="fa fa-quote-left tertiary-border secondary-color" />
-                                          <div className="st-client-desctiption">
-                                            <ul>
-                                              <li>Compliance BFSI</li>
-                                              <li>
-                                                Compliance and Regulatory
-                                                Advisory
-                                              </li>
-                                              <li>
-                                                Corporate Legal Solutions
-                                                (Contract & Litigation)
-                                              </li>
-                                              <li>
-                                                Company Secretarial Function
-                                              </li>
-                                              <li>
-                                                Investment Banking Compliance
-                                              </li>
-                                              <li>
-                                                Investigation and Forensics
-                                              </li>
-                                              <li>
-                                                Accounts & Tax Consultants
-                                              </li>
-                                              <li>Due Diligence and Audit</li>
-                                              <li>Intellectual Property</li>
-                                              <li>
-                                                Compliance Risk Assessment
-                                              </li>
-                                              <li>ESG Compliances</li>
-                                            </ul>
-                                          </div>
-                                        </div>
-                                      </div>
-                                      <br />
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-
-                      <div className="vc_row-full-width vc_clearfix" />
-                    </div>
-                  </div>
-                  {/* .entry-content */}
-                  <div className="page-edit" />
-                  {/* .entry-footer */}
-                </div>
-                {/* #post-## */}
-              </main>
-              {/* #main */}
-            </div>
             {/* #primary */}
           </div>
           {/* #row */}
