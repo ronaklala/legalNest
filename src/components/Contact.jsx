@@ -279,6 +279,8 @@ const Contact = () => {
                               </div>
                             </div>
 
+                            <br />
+
                             <div className="st-feature-box-wraper st-feature-box-layout1 text-default">
                               <div className="st-feature-box">
                                 <div className="st-feature-box-icon">
