@@ -1,4 +1,5 @@
 import React from "react";
+import { services } from "../mock/services";
 
 const Home = () => {
   return (
@@ -253,45 +254,25 @@ const Home = () => {
                                                   <div className="st-client-inner clearfix">
                                                     <i className="fa fa-quote-left tertiary-border secondary-color" />
                                                     <div className="st-client-desctiption">
-                                                      <ul>
-                                                        <li>Compliance BFSI</li>
-                                                        <li>
-                                                          Compliance and
-                                                          Regulatory Advisory
-                                                        </li>
-                                                        <li>
-                                                          Corporate Legal
-                                                          Solutions (Contract &
-                                                          Litigation)
-                                                        </li>
-                                                        <li>
-                                                          Company Secretarial
-                                                          Function
-                                                        </li>
-                                                        <li>
-                                                          Investment Banking
-                                                          Compliance
-                                                        </li>
-                                                        <li>
-                                                          Investigation and
-                                                          Forensics
-                                                        </li>
-                                                        <li>
-                                                          Accounts & Tax
-                                                          Consultants
-                                                        </li>
-                                                        <li>
-                                                          Due Diligence and
-                                                          Audit
-                                                        </li>
-                                                        <li>
-                                                          Intellectual Property
-                                                        </li>
-                                                        <li>
-                                                          Compliance Risk
-                                                          Assessment
-                                                        </li>
-                                                        <li>ESG Compliances</li>
+                                                      <ul
+                                                        className="ul"
+                                                        style={{
+                                                          display: "flex",
+                                                          flexWrap: "wrap",
+                                                        }}
+                                                      >
+                                                        {services.map(
+                                                          (service, index) => (
+                                                            <li
+                                                              key={index}
+                                                              style={{
+                                                                width: "50%",
+                                                              }}
+                                                            >
+                                                              {service.name}
+                                                            </li>
+                                                          )
+                                                        )}
                                                       </ul>
                                                     </div>
                                                   </div>

@@ -126,6 +126,9 @@ const Team = () => {
                                           <h3 className="st-team-name">
                                             Barkha Chhetri
                                           </h3>
+                                          <small className="st-team-position primary-color">
+                                            &nbsp;
+                                          </small>
                                         </div>
                                         <div className="st-team-desctiption">
                                           <p>

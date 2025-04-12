@@ -31,9 +31,8 @@ export const services = [
   },
 
   {
-    name: "Compliance",
-    description:
-      "Ensuring adherence to legal and regulatory standards to safeguard operations.",
+    name: "Due Diligence and Audit",
+    description: "Financial due diligence, Legal and Regulatory  compliance.",
     image: "icon7.png",
   },
   {
